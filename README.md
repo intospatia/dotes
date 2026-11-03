@@ -30,7 +30,7 @@ Dotes won't be argued into existence. It will be practiced into existence, by pe
 | [`personas/`](personas/) | Three fictional people, Melu (13), Jessi (20) and Cyrus (69), and their 63 dotes, as Markdown and a spreadsheet |
 | [`data/`](data/) | The same 63 dotes as JSON and CSV, plus every category and subcategory as JSON |
 | [`schema/`](schema/) | A JSON Schema for a single dote |
-| [`explorer/`](explorer/) | Instructions, upload files and a setup and test guide for a Dotes explorer on Playlab or ChatGPT |
+| [`explorer/`](explorer/) | Instructions, upload files, and a setup and testing guide for a Dotes Explorer, plus links to working examples on Playlab and ChatGPT |
 | [`session/`](session/) | The first public session, at MeasureCamp DC in November 2026: slides, speaker notes, handout and session card |
 | [`tools/`](tools/) | A validator that checks dotes against the schema and the canon |
 
