@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" width="760" height="500" role="img" aria-labelledby="t d">
+<title id="t">The Dotes spiral</title>
+<desc id="d">Do sits at the center. Observe is above, Tell to the right, Explore below and Show to the left, joined by one spiral that widens outward from Do. Observe and Explore are the scientist's way; Show and Tell are the student's way. Observe is afterthought and Explore is forethought.</desc>
+<rect width="760" height="500" fill="#FFFDF8"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto"><path d="M0 0L10 5L0 10z" fill="#B8962E"/></marker></defs>
+<text x="24" y="36" font-family="'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="600" fill="#16202E">Every dote spirals out from what you did</text>
+<text x="24" y="58" font-family="'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#4A5361">One dote, one spiral: from Do at the center, outward through Observe, Tell, Explore and Show.</text>
+<g fill="none" stroke="#E2C978" stroke-width="7" stroke-linecap="round">
+<path d="M301.2 285.9 L296.8 279.3 L293 272 L289.8 264.1 L287.4 255.7 L285.8 246.8 L285.1 237.5 L285.3 227.8 L286.5 218 L288.7 208 L291.9 198.1 L296.2 188.2 L301.6 178.5 L308 169.2 L315.5 160.3 L324 151.9"/>
+<path d="M431.7 129.9 L444 134.7 L455.9 140.6 L467.2 147.4 L477.9 155.3 L488 164 L497.2 173.7 L505.5 184.1 L513 195.2 L519.4 207 L524.9 219.3"/>
+<path d="M527.1 325.5 L522.1 338.3 L516.1 350.6 L508.9 362.3 L500.8 373.4 L491.7 383.7 L481.8 393.3 L471 401.9 L459.4 409.6 L447.3 416.3 L434.5 421.9"/>
+<path d="M324.6 424.1 L311.5 419 L298.8 412.7 L286.7 405.3 L275.2 396.9 L264.5 387.5 L254.7 377.2 L245.7 366 L237.8 354.1 L230.9 341.5 L225.1 328.4" marker-end="url(#arrow)"/>
+</g>
+<circle cx="380" cy="272" r="64" fill="#16202E" stroke="#16202E" stroke-width="0"/>
+<text x="380" y="270" text-anchor="middle" font-family="'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="600" fill="#FFFDF8">Do</text>
+<text x="380" y="290" text-anchor="middle" font-family="'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-style="italic" fill="#C9D1DB">the experience</text>
+<circle cx="380" cy="122" r="46" fill="#DCE7F2" stroke="#2E5E8C" stroke-width="2"/>
+<text x="380" y="120" text-anchor="middle" font-family="'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#16202E">Observe</text>
+<text x="380" y="136" text-anchor="middle" font-family="'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-style="italic" fill="#2E5E8C">afterthought</text>
+<circle cx="530" cy="272" r="46" fill="#F7E3D6" stroke="#A4481B" stroke-width="2"/>
+<text x="530" y="270" text-anchor="middle" font-family="'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#16202E">Tell</text>
+<text x="530" y="286" text-anchor="middle" font-family="'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-style="italic" fill="#A4481B">the story</text>
+<circle cx="380" cy="422" r="46" fill="#DCE7F2" stroke="#2E5E8C" stroke-width="2"/>
+<text x="380" y="420" text-anchor="middle" font-family="'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#16202E">Explore</text>
+<text x="380" y="436" text-anchor="middle" font-family="'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-style="italic" fill="#2E5E8C">forethought</text>
+<circle cx="230" cy="272" r="46" fill="#F7E3D6" stroke="#A4481B" stroke-width="2"/>
+<text x="230" y="270" text-anchor="middle" font-family="'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#16202E">Show</text>
+<text x="230" y="286" text-anchor="middle" font-family="'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-style="italic" fill="#A4481B">the evidence</text>
+<text x="470" y="100" font-family="'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="600" fill="#2E5E8C">Observe &amp; Explore</text>
+<text x="470" y="118" font-family="'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#4A5361">the scientist’s way, loosely the</text>
+<text x="470" y="134" font-family="'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#4A5361">scientific method: look back, look ahead</text>
+<text x="70" y="420" font-family="'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="600" fill="#A4481B">Show &amp; Tell</text>
+<text x="70" y="438" font-family="'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#4A5361">the student’s way: this is mine,</text>
+<text x="70" y="454" font-family="'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#4A5361">this is what I did, why it matters</text>
+</svg>

@@ -1,0 +1,272 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Dote",
+  "description": "One first-person story of growth, told through five elements: Do, Observe, Tell, Explore and Show. See canon/Dotes_Canonical_Framework.md.",
+  "$comment": "Part of Dotes, by Michael Robbins (michael@intospatia.xyz, https://dotes.xyz). This schema is MIT licensed; the canon it describes is CC BY 4.0, and the name Dotes is free for anyone to use.",
+  "type": "object",
+  "required": [
+    "id",
+    "author",
+    "category",
+    "subcategory",
+    "elements",
+    "stewardship",
+    "provenance"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "A stable identifier for this dote.",
+      "pattern": "^[a-z0-9][a-z0-9-]{0,127}$"
+    },
+    "author": {
+      "type": "object",
+      "description": "The person who told the dote. First names or handles only.",
+      "required": [
+        "name"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 64
+        },
+        "life_act": {
+          "enum": [
+            "First Act",
+            "Second Act",
+            "Third Act"
+          ]
+        },
+        "fictional": {
+          "type": "boolean",
+          "description": "True for sample personas."
+        }
+      }
+    },
+    "prompt": {
+      "type": "string",
+      "description": "The starter prompt that opened the dote, if any."
+    },
+    "category": {
+      "description": "The primary lens, chosen by the author.",
+      "$ref": "#/$defs/category"
+    },
+    "subcategory": {
+      "description": "One of the 35 subcategories. It must belong to the primary category; tools/validate.py checks the pairing.",
+      "$ref": "#/$defs/subcategory"
+    },
+    "also_seen_through": {
+      "type": "array",
+      "description": "Other lenses the story genuinely holds.",
+      "items": {
+        "$ref": "#/$defs/category"
+      },
+      "uniqueItems": true,
+      "maxItems": 6
+    },
+    "elements": {
+      "type": "object",
+      "description": "The five elements. Do is required; the others may stay empty until the author fills them.",
+      "required": [
+        "do",
+        "observe",
+        "tell",
+        "explore",
+        "show"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "do": {
+          "type": "string",
+          "minLength": 1,
+          "description": "What happened, and what did you do? The record."
+        },
+        "observe": {
+          "type": "string",
+          "description": "What went well, what didn't, and what did you learn?"
+        },
+        "tell": {
+          "type": "string",
+          "description": "How would you tell it to someone else? The story."
+        },
+        "explore": {
+          "type": "string",
+          "description": "What would you do differently, and what are you still wondering?"
+        },
+        "show": {
+          "type": "string",
+          "description": "What makes it real? Evidence, shared with others' permission."
+        }
+      }
+    },
+    "stewardship": {
+      "type": "object",
+      "required": [
+        "visibility",
+        "rep_may_use"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "visibility": {
+          "enum": [
+            "Just me",
+            "People I choose",
+            "My group",
+            "Public"
+          ],
+          "description": "Who can see the dote. Every new dote starts as Just me."
+        },
+        "rep_may_use": {
+          "type": "boolean",
+          "description": "Whether the author allows their AI Representative to draw on this dote."
+        },
+        "sensitive_topics": {
+          "type": "array",
+          "description": "Dotes on these topics start private, with Rep use off.",
+          "items": {
+            "enum": [
+              "health",
+              "emotions",
+              "faith",
+              "family circumstances",
+              "regret"
+            ]
+          },
+          "uniqueItems": true
+        }
+      }
+    },
+    "provenance": {
+      "type": "object",
+      "description": "Where the dote came from: who told it, when, and what has changed since.",
+      "required": [
+        "told_by"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "told_by": {
+          "type": "string",
+          "minLength": 1
+        },
+        "created": {
+          "type": "string",
+          "format": "date"
+        },
+        "language": {
+          "type": "string",
+          "description": "A language tag such as en or es."
+        },
+        "source": {
+          "type": "string",
+          "description": "For sample data, where it came from."
+        },
+        "revisions": {
+          "type": "array",
+          "description": "Kept only if the author wants a history.",
+          "items": {
+            "type": "object",
+            "required": [
+              "date"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "date": {
+                "type": "string",
+                "format": "date"
+              },
+              "note": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "suggestions": {
+          "type": "array",
+          "description": "Anything an AI helper suggested. A suggestion stays labeled until the author accepts it.",
+          "items": {
+            "type": "object",
+            "required": [
+              "field",
+              "text",
+              "status"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "field": {
+                "type": "string"
+              },
+              "text": {
+                "type": "string"
+              },
+              "status": {
+                "enum": [
+                  "suggested",
+                  "accepted",
+                  "declined"
+                ]
+              },
+              "by": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "category": {
+      "enum": [
+        "Character",
+        "Excellence",
+        "Service",
+        "Relationships",
+        "Adventure",
+        "Making",
+        "Wellbeing"
+      ]
+    },
+    "subcategory": {
+      "enum": [
+        "Integrity and Honesty",
+        "Courage and Resilience",
+        "Empathy and Compassion",
+        "Responsibility and Accountability",
+        "Ethical Reflection and Growth",
+        "Academic and Intellectual Achievement",
+        "Creative and Artistic Achievement",
+        "Athletic and Physical Achievement",
+        "Leadership and Initiative",
+        "Work and Enterprise",
+        "Community Service and Mutual Aid",
+        "Environmental Stewardship",
+        "Mentorship and Support",
+        "Advocacy and Civic Action",
+        "Inclusion and Kindness",
+        "Friendship and Peer Support",
+        "Family and Generations",
+        "Mentorship and Guidance",
+        "Community and Teamwork",
+        "Conflict and Repair",
+        "Intellectual Curiosity",
+        "New Places and New Beginnings",
+        "Creative Exploration",
+        "Cultural Encounter and Exchange",
+        "Skills and Hobbies",
+        "Visual Art and Craft",
+        "Music and Performance",
+        "Writing and Storytelling",
+        "Invention, Design and Repair",
+        "Digital Creation",
+        "Movement and Physical Activity",
+        "Food and Nourishment",
+        "Emotional Balance",
+        "Rest and Renewal",
+        "Personal and Spiritual Development"
+      ]
+    }
+  }
+}

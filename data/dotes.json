@@ -1,0 +1,2015 @@
+[
+  {
+    "id": "cyrus-integrity-and-honesty",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "Have you ever found, or been handed, something that wasn't yours? What did you do?",
+    "category": "Character",
+    "subcategory": "Integrity and Honesty",
+    "also_seen_through": [
+      "Service"
+    ],
+    "elements": {
+      "do": "On a cold October morning walk, I found a wallet with about $200 and a student ID under a park bench. I walked it to the police station that morning.",
+      "observe": "For a minute I wanted the money; it would have covered my electric bill. What decided it was my father's voice. Turning it in was right, but going through the station was slow, and I learned how much a week matters to someone counting every dollar.",
+      "tell": "It was a bitter-cold October morning. I spotted a brown leather wallet wedged under a bench near the pond. Inside: about $200, a student ID and a coffee punch card. My hands shook, and not from the cold. Two hundred dollars would have covered my electric bill with change to spare. But I kept hearing my father: 'A man who takes what isn't his loses something money can't buy back.' I walked it to the police station. A week later a handwritten thank-you arrived. The student had been saving that cash for three months toward rent. She'd underlined 'thank you' twice.",
+      "explore": "Next time I'd look up the owner and return it directly. I still wonder how many people walked past that bench before I did.",
+      "show": "The thank-you card, shared with the writer's permission. A photo of the bench by the pond where I found the wallet."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-courage-and-resilience",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "What is something you did even though it scared you?",
+    "category": "Character",
+    "subcategory": "Courage and Resilience",
+    "also_seen_through": [
+      "Adventure",
+      "Making"
+    ],
+    "elements": {
+      "do": "At sixty-eight I signed up for a community photography class where I was the oldest student by twenty-five years. I went to all six sessions.",
+      "observe": "Walking in, I felt like a rotary phone in an Apple store. The first class went badly; I couldn't find the power button. What worked was letting a younger classmate teach me without pretending I knew. I learned that patience, the thing my grandmother Ingrid taught me by the fishing pond, is most of photography.",
+      "tell": "Helen had been nudging me toward photography for months. One Tuesday I found myself outside the Community Center, watching people half my age carry in equipment I couldn't name. The first class was humbling. I couldn't find the power button on the loaner camera. A young woman named Priya showed me the basics without a hint of condescension. By the third week I was out in my garden at dawn when a robin landed on the fence just as the light caught its breast feathers. I held my breath and pressed the shutter. The next class, the instructor held up the print and said, 'That's someone who understands stillness.'",
+      "explore": "I want to photograph my garden through all four seasons and make a small album for Helen and Nick. I'm curious whether I can learn to photograph people as patiently as birds.",
+      "show": "The robin photograph, printed and tacked to my kitchen wall. The instructor's note on my final assignment."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-empathy-and-compassion",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "When did you notice someone was struggling and do something about it?",
+    "category": "Character",
+    "subcategory": "Empathy and Compassion",
+    "also_seen_through": [
+      "Relationships",
+      "Service"
+    ],
+    "elements": {
+      "do": "At my Thursday library volunteer shift, I noticed that a fellow volunteer, Susan, was grieving a loss in her family. I waited for a quiet moment, asked her about it, and sat with her for most of an hour.",
+      "observe": "I recognized her silence because I'd carried the same kind after Elaine died. Listening and telling one true story helped her more than advice would have. I also noticed that I'm better at giving comfort than receiving it.",
+      "tell": "Susan had always been the bright spot of our Thursday shifts. One afternoon she came in with red-rimmed eyes and a silence that filled the room. I waited until we were shelving journals in the back corner before I asked. She told me there had been a death in her family. I didn't reach for platitudes. I told her about my first Thanksgiving after Elaine passed: setting two plates out of habit and standing in the kitchen crying over a turkey I couldn't carve. We talked for nearly an hour. The following Thursday she brought lemon bars, and squeezed my hand as she set one on my desk.",
+      "explore": "I should finally look into the grief support group at St. Luke's. I wonder what it would take for me to let someone sit with me the way I sat with Susan.",
+      "show": "A short note from Susan about that afternoon, shared with her permission."
+    },
+    "stewardship": {
+      "visibility": "People I choose",
+      "rep_may_use": false,
+      "sensitive_topics": [
+        "emotions"
+      ]
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-responsibility-and-accountability",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "Think of a mistake you owned up to. How did you make it right?",
+    "category": "Character",
+    "subcategory": "Responsibility and Accountability",
+    "also_seen_through": [
+      "Excellence"
+    ],
+    "elements": {
+      "do": "I left an original WWII ration card at home before a library presentation I'd prepared for three weeks. I described it from memory at the podium, then photographed it that evening and emailed it to every attendee with an apology.",
+      "observe": "Five seconds of panic, then thirty-five years of classroom habit took over. The description went well; three people said it was more vivid than the card would have been. My preparation did not go well. I learned that owning a mistake out loud, right away, keeps it small.",
+      "tell": "I'd spent three weeks preparing a presentation on wartime Cedar Rapids. The centerpiece was an original ration card from the Hoffmann family. When I reached into my folder at the podium, it wasn't there. I'd left it on my kitchen table. For five terrible seconds my mind went blank. Then the teacher in me took over. 'I've left our star at home,' I told them, 'so let me paint her for you.' I described the faded blue ink and the pencil marks where Mrs. Hoffmann tracked her sugar allotment, and the audience leaned forward as if they could see it. That night I photographed the card and emailed it to everyone with an apology. Three people wrote back that the description had been better than the picture.",
+      "explore": "I now keep a laminated checklist taped inside my presentation folder. I'm curious whether describing objects aloud before showing them would make my talks stronger on purpose.",
+      "show": "The photograph of the ration card I emailed that night. My apology email. The checklist taped inside my folder."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-ethical-reflection-and-growth",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "When did you change your mind about something after learning more?",
+    "category": "Character",
+    "subcategory": "Ethical Reflection and Growth",
+    "also_seen_through": [
+      "Adventure"
+    ],
+    "elements": {
+      "do": "Two years after I retired, my friend Tom took me to a historic preservation seminar in Des Moines. I tried a virtual reality reconstruction of 1920s Cedar Rapids, including the block where my father's diner later stood.",
+      "observe": "I had resisted classroom technology for my last decade of teaching, and I was wrong for most of it. I'd confused the tool with the purpose. Walking that street taught me that the tools change, but the work of making the past present stays the same.",
+      "tell": "For my last ten years of teaching I groaned at every tech initiative. Then Tom dragged me to a preservation seminar where they had used VR to rebuild 1920s Cedar Rapids, block by block. I put on the headset expecting a cartoon. Instead I was standing on Third Avenue. I could read the shop signs and look through the windows. Halfway down the block was the corner where my father would open his diner, a place I'd only seen in faded photographs. I took the headset off with tears in my eyes and told the young woman running the demo, 'I just visited my family.'",
+      "explore": "I've asked Helen to teach me photo editing, and I'm watching tutorials on digital archiving. I want to know what my old students would have made with tools like these.",
+      "show": "The seminar program. A screenshot from the reconstruction showing the diner's block. My notes from that afternoon."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-academic-and-intellectual-achievement",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "What project are you proud you finished? What was the hardest part?",
+    "category": "Excellence",
+    "subcategory": "Academic and Intellectual Achievement",
+    "also_seen_through": [
+      "Service",
+      "Relationships"
+    ],
+    "elements": {
+      "do": "Over eighteen months, I led my high school students through research that became 'Voices of the Homefront,' a published book on Cedar Rapids during WWII. They conducted forty-two oral history interviews.",
+      "observe": "Seeing students who rolled their eyes at history in September hold a book with their names in it in May was the proudest moment of my career. The hardest part was the middle months, when the archives felt endless and morale dipped. I learned that teenagers will work harder for a real audience than for a grade.",
+      "tell": "The project started with one question: 'What did your grandparents' Cedar Rapids look like during the war?' We spent eighteen months tracking down ration cards, factory payroll records and letters from the front. Around month nine, a student slammed a binder shut and said, 'Nobody's ever going to read this.' I didn't argue. I called the public library and booked a launch date that afternoon. On launch night, a woman named Margaret, ninety-one, held the book and said, 'Someone finally told our story.' The book sits in the library's permanent collection.",
+      "explore": "I'm thinking about a follow-up on Cedar Rapids' immigrant communities in the early 1900s, starting with my own family's Greek diner. I'd like to know whether any of those students went on to do history of their own.",
+      "show": "The published book in the library's local history collection. The launch-night program. Margaret's words, used with her family's permission."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-creative-and-artistic-achievement",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "What piece did you practice or rework until it met your own standard?",
+    "category": "Excellence",
+    "subcategory": "Creative and Artistic Achievement",
+    "also_seen_through": [
+      "Making",
+      "Relationships"
+    ],
+    "elements": {
+      "do": "I spent six weeks hand-drawing a street-by-street map of Cedar Rapids in 1943, rebuilt from my grandfather's photographs, old city directories and fire insurance maps. I redrew the Third Avenue section three times.",
+      "observe": "My standard was accuracy: every storefront where it actually stood. The first two Third Avenue drafts were wrong, and finding the errors was humbling. I learned that precision can be a form of remembrance.",
+      "tell": "It began when I found my grandfather's photographs in a shoebox. Most showed streets I didn't recognize, Cedar Rapids before the floods and the bulldozers. I spread them across my kitchen table beside the 1943 city directory and the old Sanborn fire insurance maps. Street by street, I rebuilt the city. Twice I finished Third Avenue, and twice a photograph proved me wrong: the bakery was on the other corner. On the third try I inked in my father's diner and had to sit down. It took three fine-point pens and six weeks. When I pinned it to my study wall and stepped back, the city I knew and the city that made me were on the same sheet of paper.",
+      "explore": "I want to draw one map per decade, from the 1920s to today, so you can watch the city change. I wonder which streets I'll find that no one alive remembers.",
+      "show": "The finished map on my study wall. The two discarded Third Avenue drafts. The shoebox of photographs I worked from."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-athletic-and-physical-achievement",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "Tell about a game, race or match where you gave everything you had, win or lose.",
+    "category": "Excellence",
+    "subcategory": "Athletic and Physical Achievement",
+    "also_seen_through": [
+      "Relationships",
+      "Wellbeing"
+    ],
+    "elements": {
+      "do": "I signed up for a five-mile community walk with my neighbor Dave's walking group and finished it, though my right knee nearly turned me back at mile three.",
+      "observe": "The first two miles went fine. Mile three was a wall, and I almost quit. What got me through was Linda, a retired nurse, walking beside me at my pace without a word. I learned that my knee gets a vote, but not the final say.",
+      "tell": "Dave had been after me for months to join his walking group, so I signed up for the fall community walk. The first two miles felt fine: light through the maples, easy talk with Linda. Then mile three hit like a wall. My right knee locked. I stopped beside a trash can and started working out how to get a ride back. Linda dropped back and walked beside me without saying anything, matching my hobbled pace. By mile four the pain had settled into something I could manage. When I crossed the finish line, Dave clapped my shoulder and said, 'Same time next Saturday?' I nodded, because I didn't trust my voice.",
+      "explore": "I'm going to keep showing up on Saturdays. Linda mentioned a ten-mile charity walk in the spring, and I'm wondering whether my knee and I can train for it together.",
+      "show": "My finisher's bib. The route map. A photo of Dave, Linda and me at the finish, shared with their permission."
+    },
+    "stewardship": {
+      "visibility": "My group",
+      "rep_may_use": false,
+      "sensitive_topics": [
+        "health"
+      ]
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-leadership-and-initiative",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "What did you start that other people joined?",
+    "category": "Excellence",
+    "subcategory": "Leadership and Initiative",
+    "also_seen_through": [
+      "Service",
+      "Relationships"
+    ],
+    "elements": {
+      "do": "I proposed a community history club to the head librarian at the Cedar Rapids Public Library and ran the first meeting. Fourteen people came.",
+      "observe": "I expected five people, so fourteen threw me for a moment. Splitting them into research teams worked; my plan for the hour did not, because everyone wanted to talk at once. I learned that a good first meeting is mostly listening.",
+      "tell": "I pitched the idea to the head librarian expecting maybe five people. Fourteen showed up: retirees, a college student, a young mother with a toddler, and a teenager named Marcus who had found his great-uncle's war medal and wanted to know its story. I set my agenda aside, divided us into research teams and showed them how to search city directories. By the end of the hour the room was buzzing in a way I hadn't heard since my last year of teaching. As people packed up, Marcus asked if we could put our research online. I didn't know how. I told him we'd figure it out together.",
+      "explore": "I want to partner with the middle school so students and retirees can research side by side. I'm still working out how to keep fourteen people's interests in one project.",
+      "show": "The library's flyer for the first meeting. Our meeting notes. The research-team assignments I handed out."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-work-and-enterprise",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "Tell about work other people depended on you for: a family business, a side job or work at home.",
+    "category": "Excellence",
+    "subcategory": "Work and Enterprise",
+    "also_seen_through": [
+      "Relationships",
+      "Character"
+    ],
+    "elements": {
+      "do": "The summer I turned fifteen, my father put me on the breakfast counter at his diner on Third Avenue. I worked six mornings a week, taking orders and running the register.",
+      "observe": "The first two weeks I mixed up orders and slowed the whole line. What changed it was learning the regulars by name, which made their orders easy to remember. I learned that people trust you once you know who they are, and I used that in every classroom I ever had.",
+      "tell": "By 6:30 every morning the counter was full: mill workers, two mail carriers and a judge who liked his eggs 'barely cooked.' My first week I brought the judge scrambled eggs and gave a mail carrier the wrong change. My father didn't yell. He wiped the counter and said, 'Know their names before you know their orders.' So I started a list on the back of a ticket pad: names, faces, what they drank. By August I could pour Mr. Novak's coffee before he sat down. On my last morning of the summer, the judge left a quarter under his plate and a note on a napkin: 'Good counterman.'",
+      "explore": "In thirty-five years of teaching, I learned every student's name in the first week. I'd like to write down what my father taught me about running that diner before I forget it.",
+      "show": "A photograph of the diner counter from the early 1970s. The napkin note, kept in my desk drawer. My father's apron."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-community-service-and-mutual-aid",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "What did you work on that made a place you care about better?",
+    "category": "Service",
+    "subcategory": "Community Service and Mutual Aid",
+    "also_seen_through": [
+      "Relationships"
+    ],
+    "elements": {
+      "do": "I joined a Saturday neighborhood cleanup at the park where I walk every morning. With a dozen neighbors, I raked around my usual bench, pulled weeds and planted marigolds along the path.",
+      "observe": "That park held me up after Elaine died, so the morning felt like returning a kindness. It went well, especially with the kids who treated it like a treasure hunt. I learned that a place you love gets better when you give it a morning instead of only your attention.",
+      "tell": "I showed up at 8 a.m. with gloves and trash bags. A dozen others came, including three kids from the block who treated every bottle cap like buried treasure. I raked leaves around my bench and planted marigolds along the path. One of the kids, Sophie, watched me for a while and asked why I'd come. 'This park has been taking care of me for years,' I told her. 'Today I get to return the favor.' She nodded like that made perfect sense, and handed me another marigold.",
+      "explore": "I want to organize a one-hour cleanup on the first Saturday of every month, and Sophie says she'll bring friends. I wonder what the park will look like after a year of that.",
+      "show": "Before-and-after photos of the path. The marigolds by my bench. The sign-up sheet for the monthly cleanup."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-environmental-stewardship",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "What did you do to care for a park, a garden, a stream or animals?",
+    "category": "Service",
+    "subcategory": "Environmental Stewardship",
+    "also_seen_through": [
+      "Relationships",
+      "Wellbeing"
+    ],
+    "elements": {
+      "do": "I turned our empty backyard into a vegetable garden, and now I leave the extra tomatoes on my neighbors' porches.",
+      "observe": "The first season went badly: blight, bitter cucumbers, too much water. By the second year I'd learned the soil. I learned that tending small things patiently yields more than you plant, and that sharing the harvest builds a quiet kind of neighborhood.",
+      "tell": "Elaine and I always talked about growing our own food but never got around to it. One April after she passed, I bought tomato starts, cucumber seeds and compost. That first season was a lesson in humility: blight on the tomatoes, cucumbers so bitter I couldn't eat them. The second year I tested the soil, watered less and mulched more. Now my plot grows more than I can eat. I bag the extra tomatoes and leave them on neighbors' porches, no note. Mrs. Patterson figured it out and started leaving strawberry jam on my step. We have never once discussed the arrangement.",
+      "explore": "Next spring I'm building a compost bin and trying bell peppers. I also want to teach Sophie how to start seeds, and I'm curious whether she'll want a row of her own.",
+      "show": "Photos of the garden in its first and third summers. My soil test results. A jar of Mrs. Patterson's jam."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-mentorship-and-support",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "When did you help someone learn something you know how to do?",
+    "category": "Service",
+    "subcategory": "Mentorship and Support",
+    "also_seen_through": [
+      "Relationships"
+    ],
+    "elements": {
+      "do": "My neighbor asked me to help her son Jimmy, who was struggling in American History. I tutored him at my kitchen table twice a week for six weeks, and he scored a 94 on his final.",
+      "observe": "Starting with his life instead of the textbook worked from the first day. My early mini-lectures did not; he tuned out after five minutes. I learned how much I'd missed the purpose of teaching since I turned in my classroom keys.",
+      "tell": "Jimmy's mother knocked on my door looking apologetic. I didn't start with the textbook. I asked him, 'What's the most unfair thing that's ever happened to you?' He told me about getting benched for something a teammate did. 'Good,' I said. 'Now you understand the Stamp Act.' We built timelines on butcher paper across my kitchen table. When his final score came back, he ran to my house before he told his mother. I hung his test on my refrigerator next to Elaine's photograph.",
+      "explore": "Jimmy's mother mentioned two other kids who could use help, so I'm thinking about a small Tuesday-Thursday group. I wonder whether the butcher-paper timelines will work with three kids at once.",
+      "show": "The butcher-paper timeline. Jimmy's test with the 94 circled, shared with his and his mother's permission."
+    },
+    "stewardship": {
+      "visibility": "People I choose",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-advocacy-and-civic-action",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "What did you do after you learned about a problem in your community or the world?",
+    "category": "Service",
+    "subcategory": "Advocacy and Civic Action",
+    "also_seen_through": [
+      "Character"
+    ],
+    "elements": {
+      "do": "When I read that the city planned to demolish the Paramount Theatre block for a parking garage, I spent a week gathering photographs and records. Then I spoke for seven minutes at a city council meeting.",
+      "observe": "My hands shook so badly I could barely hold the photographs. The council voted to preserve the facades, which was less than I wanted and more than I expected. I learned that some things matter too much to leave to people who are more comfortable at a microphone.",
+      "tell": "I spent a week in the library's local history room gathering photographs of the block from 1927 on. At the meeting I sat through forty minutes of zoning items, rehearsing under my breath. When my name was called, my hands shook so badly the photographs rattled. I spoke about what those buildings held, as architecture and as memory. Then I held up the oldest photo and said, 'You can build a parking garage anywhere. You cannot rebuild 1927.' Two weeks later, the council voted to preserve the facades.",
+      "explore": "I've joined the Historic Preservation Commission as a volunteer advisor. I'm still wondering how to bring younger voices into these meetings.",
+      "show": "The council minutes recording my comments. The 1927 photograph I held up. A photo of the preserved facade today."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-inclusion-and-kindness",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "When did you welcome someone new?",
+    "category": "Service",
+    "subcategory": "Inclusion and Kindness",
+    "also_seen_through": [
+      "Relationships"
+    ],
+    "elements": {
+      "do": "I noticed a quiet new library volunteer, Daniel, standing apart from everyone. I brought him a coffee and invited him into our local history discussion group.",
+      "observe": "I recognized his hesitation because I've felt it: being in a room full of people and feeling invisible. Asking for his help, rather than offering mine, is what worked. I learned that belonging is often something someone hands you.",
+      "tell": "Daniel was in his early twenties, quiet in the way people are when they're not sure they belong. I walked over with two cups of mediocre library coffee and said, 'We're doing a local history discussion in ten minutes. I could use someone who asks good questions.' He hesitated, but he came. The second week he shared a story about his grandparents, and the room went quiet in the good way. By the third week he was suggesting research topics.",
+      "explore": "Daniel is teaching me to scan documents for the archive, and I'm teaching him to read Sanborn maps. I wonder how many other volunteers are waiting for someone to walk over.",
+      "show": "Our first co-written archive entry, shared with Daniel's permission. A photo of the history corner where the group meets."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-friendship-and-peer-support",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "How did one of your friendships begin?",
+    "category": "Relationships",
+    "subcategory": "Friendship and Peer Support",
+    "also_seen_through": [
+      "Character"
+    ],
+    "elements": {
+      "do": "I met Tom at teacher orientation in 1980. We taught down the hall from each other for thirty-five years, and we still meet every Wednesday at the Starlite Diner.",
+      "observe": "What has worked for forty-five years is simple: Tom makes me laugh at things I'd otherwise cry about. When Elaine was sick, he showed up without being asked. I learned that a friend who knows your whole story is rare, and worth a standing appointment.",
+      "tell": "At orientation, Tom leaned over and whispered, 'If they ask me to do an icebreaker, I'm climbing out the window.' I laughed so hard the principal turned around. For thirty-five years we shared a hallway and about ten thousand conversations. When Elaine got sick, Tom drove me to the hospital every day for two months. I never asked. He just appeared in my driveway at 7:15. Now we meet every Wednesday at the Starlite: same booth, same coffee. We argue about whether the pie has gotten worse. It hasn't. Tom just likes to argue.",
+      "explore": "I want to keep Wednesdays going as long as we both can. I've been wondering whether to tell Tom what those hospital drives meant, since I never have.",
+      "show": "A photo of Tom and me in our booth, shared with his permission. Our 1980 orientation name tags, which Tom saved."
+    },
+    "stewardship": {
+      "visibility": "My group",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-family-and-generations",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "What family tradition do you help keep going? What is your part?",
+    "category": "Relationships",
+    "subcategory": "Family and Generations",
+    "also_seen_through": [
+      "Service"
+    ],
+    "elements": {
+      "do": "When my daughter Helen brought my seven-year-old grandson Liam to visit last June, I taught him to plant tomato seeds the way my grandmother Ingrid taught me.",
+      "observe": "Watching his small hands push seeds into the soil, I felt three generations in one gesture; the chain hadn't broken. Slowing to his pace worked. My first instructions were too many at once. I learned the tradition lives in the doing more than in the telling.",
+      "tell": "Liam is seven: all knees, elbows and questions. I handed him the watering can Elaine painted with sunflowers and showed him how to make a furrow, drop the seed, and cover it gently. 'Not too deep. Seeds need to feel the sun calling them up.' He placed each seed with the concentration of a surgeon. When we finished, he stood up, dirt on his nose, and announced, 'These are MY tomatoes.' My grandmother had stood in almost the same spot sixty years ago, teaching me to plant potatoes.",
+      "explore": "Liam calls every week to ask about his tomatoes, and I send photos. When the first one turns red, I'm saving it for his next visit. I wonder what he'll teach someone someday.",
+      "show": "The sunflower watering can. The weekly photos of Liam's tomato row. Helen's photo of the two of us planting, shared with her permission."
+    },
+    "stewardship": {
+      "visibility": "People I choose",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-mentorship-and-guidance",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "Which teacher, coach or mentor changed how you saw something? What did they do?",
+    "category": "Relationships",
+    "subcategory": "Mentorship and Guidance",
+    "also_seen_through": [
+      "Adventure"
+    ],
+    "elements": {
+      "do": "On the first day of a college history course, Dr. Evans pointed at my coffee cup and asked me to tell him its history. When I couldn't, he spent twenty minutes showing us.",
+      "observe": "That question cracked history open for me; I stopped seeing dates and started seeing the hidden structure of everything. I was too intimidated to say a word that day. I learned the power of starting with something already in the student's hand.",
+      "tell": "Dr. Evans pointed at my coffee cup and said, 'Tell me the history of that.' I froze. So he unpacked it himself: Ethiopian highlands, Ottoman trade routes, colonial plantations, labor movements, advertising. Twenty minutes passed and I hadn't blinked. History wasn't dead. It was the reason my coffee cost what it cost. For thirty-five years, I started every semester with my own version of his question. Sneakers. Smartphones. Sandwiches.",
+      "explore": "I still use his method. Last week I asked Jimmy about the history of his basketball shoes, and he talked for twenty minutes. I wish I'd written to Dr. Evans to tell him what that first class started.",
+      "show": "My college notebook from that course. The 'history of an object' assignment I gave students for thirty-five years."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-community-and-teamwork",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "When did a group you were part of do something none of you could have done alone?",
+    "category": "Relationships",
+    "subcategory": "Community and Teamwork",
+    "also_seen_through": [
+      "Service"
+    ],
+    "elements": {
+      "do": "My neighbor Dave and I revived our street's block party after more than a decade. I coordinated the food, Dave ran the sound, and Mrs. Patterson recruited every household.",
+      "observe": "The split worked because each of us took the job we were best at. The street filled with people who had lived side by side for years without talking. I learned that belonging to a place takes someone willing to knock on doors.",
+      "tell": "I mentioned the old block party while Dave and I were watering our lawns. 'We should bring it back,' he said. I took food, my Greek heritage paying dividends in moussaka. Dave took the sound system, and Mrs. Patterson took the doorbells. On the day, the young couple from number 14 spent an hour talking with Mr. Chen, who has lived here forty years. Kids chased each other between the tables. A teenager played guitar while his grandmother sang in Spanish. By sunset I was sitting on my porch steps with a plate of food, part of a street again.",
+      "explore": "We're making it annual, and Dave wants a live band. I'd like to add a display of old photos of the street through the decades, and I'm curious what the neighbors will bring.",
+      "show": "The flyer we put in every mailbox. Photos of the tables down the street. Next year's sign-up list."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-conflict-and-repair",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "Think of a disagreement with a friend or family member that you worked through. How did you do it?",
+    "category": "Relationships",
+    "subcategory": "Conflict and Repair",
+    "also_seen_through": [
+      "Character"
+    ],
+    "elements": {
+      "do": "A year after Elaine died, my son Nick and I argued over whether I should sell the house and move near him in Minneapolis. We didn't speak for three months. Then I wrote him a letter and drove up to see him.",
+      "observe": "I said things in that argument that I regret; I heard his worry as an accusation that I couldn't manage. The letter worked better than another phone call would have, because I could say it all without interrupting myself. I learned that he was grieving too, in his own way.",
+      "tell": "Nick called on a Sunday with a real estate listing already open on his screen. 'Dad, you can't keep that house by yourself.' I told him I didn't need a manager. He told me I didn't need a museum. We both hung up. Three months went by. One night I sat at Elaine's desk and wrote him four pages by hand. I told him the house wasn't a museum; it was where I still talked to his mother. Two weeks later I drove the five hours to Minneapolis. He opened the door holding my letter, the pages soft from being folded and unfolded. 'I didn't know you still talked to her,' he said. 'I didn't know you'd stopped,' I said. We stood on his porch for a long time.",
+      "explore": "We've agreed to talk about the house again in a year, and to call every Sunday until then. I'm still wondering what I would choose if I weren't afraid of leaving her things.",
+      "show": "A copy of the letter, shared with Nick's permission. The photo Nick took of us on his porch that afternoon."
+    },
+    "stewardship": {
+      "visibility": "People I choose",
+      "rep_may_use": false,
+      "sensitive_topics": [
+        "emotions",
+        "family circumstances"
+      ]
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-intellectual-curiosity",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "What question couldn't you stop asking, and where did it lead you?",
+    "category": "Adventure",
+    "subcategory": "Intellectual Curiosity",
+    "also_seen_through": [
+      "Excellence",
+      "Relationships"
+    ],
+    "elements": {
+      "do": "During my students' WWII project, a student came back from interviewing her great-aunt Rosalie, who had worked at a local plant from 1942 to 1945. I kept asking why women like Rosalie were missing from the city's histories, and we rebuilt the project around them.",
+      "observe": "I had taught WWII for two decades and had never asked that question. Changing the project mid-year was messy; we lost two weeks reorganizing. I learned that history is always deeper than the version we think we know, and that a student can lead the teacher.",
+      "tell": "Keisha came back from the interview looking like she'd found buried treasure. Her great-aunt Rosalie, eighty-nine, had worked the plant floor through the war. 'When the men came home, they sent us back to the kitchen,' Rosalie had told her, 'and nobody wrote down that we'd been there.' I went home and searched every local history on my shelf. Not one mentioned women at the plants. The next Monday I asked the class whether they wanted to change course. Every hand went up. When Rosalie visited our classroom, every student was silent for forty-five minutes, which, if you've taught teenagers, qualifies as a miracle.",
+      "explore": "I'm compiling a list of surviving women from that era, because their stories deserve an exhibit of their own. I wonder how many other groups our city histories left out.",
+      "show": "Rosalie's recorded interview, used with her family's permission. The photograph she brought of herself in coveralls. The project display."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-new-places-and-new-beginnings",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "Where did you go, near or far, that showed you something you had never seen?",
+    "category": "Adventure",
+    "subcategory": "New Places and New Beginnings",
+    "also_seen_through": [
+      "Relationships"
+    ],
+    "elements": {
+      "do": "In June 1987, Elaine and I drove from Cedar Rapids to Yosemite in a beat-up station wagon and camped for three nights near El Capitan.",
+      "observe": "Lying under the Milky Way with Elaine beside me, I felt tiny and infinite at once. The drive was long, and we argued about directions twice. I learned that some places are too big for your eyes, and that's what makes them worth the trip.",
+      "tell": "We left with the station wagon and a road atlas. When I first saw El Capitan, I pulled over and just stood there. Elaine teased me for photographing the same granite face from seventeen angles. On the last night we lay on our sleeping bags watching the stars while the campfire burned down to embers. She told me she was ready to start a family. I told her I was ready for whatever came next, as long as she was in it.",
+      "explore": "I'd like to take Liam and the other grandchildren to Yosemite someday, to stand where we stood. I wonder whether it will feel smaller, or bigger, without her.",
+      "show": "The road atlas with our route traced in pen. Elaine's photo of me with my camera at El Capitan. The seventeen photographs of the same granite face."
+    },
+    "stewardship": {
+      "visibility": "People I choose",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-creative-exploration",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "When did you try a kind of creating you had never done before?",
+    "category": "Adventure",
+    "subcategory": "Creative Exploration",
+    "also_seen_through": [
+      "Making",
+      "Wellbeing"
+    ],
+    "elements": {
+      "do": "Last winter I built my first birdhouse from cedar scraps, following a plan from a library book. When no birds used it, I rebuilt the front with a smaller entrance hole.",
+      "observe": "I had never built anything from wood; my hands are better with a pen. The first version failed because I cut the entrance for bluebirds in a yard full of chickadees. I learned to watch who actually lives in the yard before building for them.",
+      "tell": "I borrowed a woodworking book from the library and bought a coping saw for nine dollars at a garage sale. My first cuts wandered like a river. By February the birdhouse was done, crooked roof and all, and I mounted it on the fence post where the robin likes to sit. For six weeks, nothing moved in. Then I read back through my own bird notebook: forty sightings of chickadees, two of bluebirds. I had built a house for the wrong family. I rebuilt the front with a smaller hole. In April a chickadee carried a tuft of moss inside and didn't come back out.",
+      "explore": "I'm planning a second birdhouse with Liam on his next visit, sized from my notebook this time. I wonder which other birds in my notebook I could build for.",
+      "show": "Both birdhouse fronts, the original and the rebuilt one. The page of my bird notebook with the sightings tally. A photo of the chickadee at the entrance."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-cultural-encounter-and-exchange",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "When did you learn a tradition, food, language or celebration that was new to you?",
+    "category": "Adventure",
+    "subcategory": "Cultural Encounter and Exchange",
+    "also_seen_through": [
+      "Wellbeing",
+      "Relationships"
+    ],
+    "elements": {
+      "do": "A fellow volunteer, Rosa, invited me to her family's Dia de los Muertos celebration. I stayed three hours longer than I'd planned.",
+      "observe": "I had treated grief as something private. Seeing people laugh and cry together in front of an ofrenda showed me that remembering the dead can be a shared act of love. I arrived stiff and unsure what a guest should do, and Rosa's grandmother put me at ease.",
+      "tell": "The altar was covered in marigolds so bright they seemed to make their own light, surrounded by photographs, food and candles. Rosa's grandmother had set a box of dominoes in the middle. 'My husband cheated at this game for fifty years,' she told me, 'and we let him, because he was so happy when he won.' The people around me were laughing and crying at the same time. When I got home that night, I set Elaine's photograph on the kitchen table, lit a candle and told her about my evening. It was the first time in five years I'd talked to her without crying.",
+      "explore": "Rosa and I are planning a remembrance evening at the library where anyone can bring a photo and share a story. I'm still learning how to be a good guest in someone else's tradition.",
+      "show": "The marigold Rosa's grandmother gave me, pressed in my journal. The flyer Rosa and I are drafting for the library evening."
+    },
+    "stewardship": {
+      "visibility": "People I choose",
+      "rep_may_use": false,
+      "sensitive_topics": [
+        "emotions"
+      ]
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-skills-and-hobbies",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "What hobby did you start, and what kept you going?",
+    "category": "Adventure",
+    "subcategory": "Skills and Hobbies",
+    "also_seen_through": [
+      "Wellbeing"
+    ],
+    "elements": {
+      "do": "Three weeks after Elaine's funeral, I watched a cardinal on the window ledge for ten minutes. The next day I bought $4 binoculars at Goodwill and started a bird notebook. I've identified sixty-three species.",
+      "observe": "The birds didn't fix anything, but those ten minutes were the first in weeks when I wasn't thinking about the empty chair. The notebook kept me going; each new species was a small win. I learned that paying attention is a practice you can build.",
+      "tell": "The first bird was a cardinal. I stood at the window watching it for ten minutes. The next day I bought the binoculars, and soon a field guide and a pocket notebook. My worst days have the fewest entries. Elaine would have been amused; she used to say I was the only person who could turn a walk in the park into a research project. Last month I finally told a song sparrow from a swamp sparrow by ear. I said 'Ha!' out loud, alone in the park, and a jogger looked at me sideways.",
+      "explore": "I'd like better binoculars, and I'm thinking about joining the local Audubon chapter. I want to know whether I can learn the warblers by spring.",
+      "show": "My bird notebook, sixty-three species with dates. The $4 binoculars. My phone recording of the song sparrow."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-visual-art-and-craft",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "What did you draw, paint, sculpt, sew or build by hand that matters to you?",
+    "category": "Making",
+    "subcategory": "Visual Art and Craft",
+    "also_seen_through": [
+      "Wellbeing"
+    ],
+    "elements": {
+      "do": "I painted the path in the park where Elaine and I used to walk, my first painting since college. It took two weeks, and I hung it across from her chair.",
+      "observe": "The perspective is off, and I nearly gave up twice. But the light is right. I learned that art is less about talent than about needing to say something badly enough to risk saying it poorly.",
+      "tell": "One afternoon on our bench, the light came through the maples and made the path look like it was glowing. I drove straight to the art supply store. I hadn't held a brush in forty years. The first week I painted the trees three times and scraped them off twice. Then I stopped trying to get the trees right and painted the light instead. Near the end, almost without deciding to, I added two faint shadows on the path, side by side, where the afternoon sun would cast them. Some evenings, when the real light hits the canvas, it almost looks like we're both still there.",
+      "explore": "Next I want to paint El Capitan at sunset, from the photographs Elaine teased me about. I'm curious whether I can paint something joyful as honestly as I painted this.",
+      "show": "The painting in the living room. The scraped-off layers still visible at its edges. The photograph of the path I painted from."
+    },
+    "stewardship": {
+      "visibility": "People I choose",
+      "rep_may_use": false,
+      "sensitive_topics": [
+        "emotions"
+      ]
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-music-and-performance",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "Tell about performing for other people. How did you get ready?",
+    "category": "Making",
+    "subcategory": "Music and Performance",
+    "also_seen_through": [
+      "Relationships"
+    ],
+    "elements": {
+      "do": "I sang 'Unchained Melody' at my friends Mark and Joanne's wedding, the song Elaine and I last danced to. I practiced it every evening for three days beforehand.",
+      "observe": "I nearly backed out twice. Practicing alone in the living room, I couldn't get through it until the third night. I learned that singing something private aloud can be an offering instead of a wound.",
+      "tell": "I chose the song without thinking, then spent three days regretting it. Every evening I stood in the living room and sang it to Elaine's chair. The first two nights I couldn't finish the second verse. On the third night I did. At the old Lutheran church I closed my eyes and let the melody carry me. For three minutes I was in our living room, and Elaine was standing across from me in her blue dress. When I opened my eyes, the room was silent. Joanne was crying. Tom handed me his handkerchief from the third row without a word.",
+      "explore": "I've been thinking about singing at the library's holiday gathering. I wonder what song I'd choose that is mine alone.",
+      "show": "The wedding program listing the song. A short recording Mark made, shared with his and Joanne's permission."
+    },
+    "stewardship": {
+      "visibility": "People I choose",
+      "rep_may_use": false,
+      "sensitive_topics": [
+        "emotions"
+      ]
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-writing-and-storytelling",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "What did you write that you are proud of, and what inspired it?",
+    "category": "Making",
+    "subcategory": "Writing and Storytelling",
+    "also_seen_through": [
+      "Relationships",
+      "Excellence"
+    ],
+    "elements": {
+      "do": "I'm writing a memoir, 'Through the Lens of History,' about my teaching career, my marriage and my grief, for my children and grandchildren. I've written eleven chapters on legal pads.",
+      "observe": "Some mornings I fill six pages; other weeks I stare at one paragraph for days. The hardest chapter so far is our last year together, and I haven't finished it. I've learned that my journal is where I tell the truth and the memoir is where I shape it.",
+      "tell": "I sat down with a legal pad and wrote the first line before I could talk myself out of it: 'My wife died on a Tuesday, which seems wrong, because Tuesdays should be ordinary.' Then I wrote six pages before my coffee got cold. The next week I wrote nothing. That pattern has held for a year. There's joy in it too: Yosemite, the students, the cardinal on the window ledge. Helen read chapter three and called me that night. 'Dad,' she said, 'I didn't know any of this about Grandpa's diner.'",
+      "explore": "I aim to finish the first draft by next spring, and Helen has offered to help me self-publish. I'm still deciding whether the last chapter is about Elaine or about what came after.",
+      "show": "The first page of the manuscript. The stack of eleven chapters on legal pads. Helen's text after chapter three, shared with her permission."
+    },
+    "stewardship": {
+      "visibility": "People I choose",
+      "rep_may_use": true,
+      "sensitive_topics": [
+        "emotions"
+      ]
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-invention-design-and-repair",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "What did you design or build to solve a problem?",
+    "category": "Making",
+    "subcategory": "Invention, Design and Repair",
+    "also_seen_through": [
+      "Wellbeing",
+      "Excellence"
+    ],
+    "elements": {
+      "do": "When my knees made it too hard to bend and water the garden, I designed a drip irrigation system from a sketch on a grocery receipt and $22 of parts.",
+      "observe": "It works, though it looks like a raccoon assembled it. My first layout put the emitters too far from the tomatoes, so I moved half of them. I learned that when my body says no to something I love, I can get creative instead of quitting.",
+      "tell": "My knees drew a hard line at bending to water. I sketched a plan on the back of a grocery receipt and took it to the hardware store with twenty-two dollars: a Y-splitter, a roll of drip tubing, a bag of emitters. Back home I ran the tubing along the raised beds and poked an emitter beside each plant. The tomatoes at the far end still wilted, so I crawled down the row and moved six emitters closer. The next morning every leaf stood up. Mrs. Patterson looked over the fence and said, 'Cyrus, that is the ugliest beautiful thing I've ever seen.'",
+      "explore": "This winter I'm adding a timer and a second line for herbs. I wonder whether I could build one for Mrs. Patterson's roses.",
+      "show": "The grocery-receipt sketch, pinned to the shed wall. The system running in the beds. The $22 parts receipt."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": [
+        "health"
+      ]
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-digital-creation",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "What video, game, app, website or track did you make with digital tools?",
+    "category": "Making",
+    "subcategory": "Digital Creation",
+    "also_seen_through": [
+      "Relationships",
+      "Service"
+    ],
+    "elements": {
+      "do": "With Marcus, the teenager from our history club, and Daniel, a library volunteer, I built the club's online archive: a website of scanned photographs, documents and oral histories. We launched it with 112 items.",
+      "observe": "I knew the history and they knew the tools, and that split worked. My insistence on perfect captions did not; we posted nothing for a month. I learned that an archive is never finished, so you publish and keep adding.",
+      "tell": "Marcus set up the site on a free platform in one afternoon. Daniel taught me to scan at the right resolution and name files so we could find them again. My job was the captions, and I was slow. After a month with nothing posted, Marcus sat me down. 'Mr. C, people can't read what we don't put up.' He was right. That night we posted the first twenty items, including the Hoffmann ration card. By the end of the week, a woman in Arizona emailed us. She had found her grandmother's face in one of our factory photographs.",
+      "explore": "Next we want to add oral history recordings, starting with Rosalie's. I'm still learning how to write a caption short enough for a screen and true enough for a historian.",
+      "show": "The archive's home page. The email from the woman in Arizona, shared with her permission. Daniel's file-naming guide."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-movement-and-physical-activity",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "What way of moving your body did you start or stick with: a sport, dance, walking or play?",
+    "category": "Wellbeing",
+    "subcategory": "Movement and Physical Activity",
+    "also_seen_through": [
+      "Character"
+    ],
+    "elements": {
+      "do": "After my knees locked up on a walk one February, I started an online gentle yoga class for seniors, three mornings a week. I've kept it up for eight months.",
+      "observe": "The first sessions were uncomfortable, and I nearly fell during tree pose. By week four my knees felt looser. I learned that stillness and giving up are different things.",
+      "tell": "Helen had been after me for a year to try yoga. Then one February morning my knees seized so badly I sat on a park bench for twenty minutes. That afternoon I found 'Gentle Yoga for Seniors' online. The instructor, Patricia, moved like she had all the time in the world. In tree pose I wobbled, grabbed the bookshelf and knocked over a lamp, which is fitting, since I'm about as flexible as an actual tree. By week eight I'd stopped fighting the practice. Patricia always ends the same way: 'You showed up. That's enough.'",
+      "explore": "I'm working up to an in-person class at the community center. I'm curious whether yoga will help my knees enough to try the ten-mile walk.",
+      "show": "My yoga mat by the living room window. My practice log: eight months of mornings."
+    },
+    "stewardship": {
+      "visibility": "My group",
+      "rep_may_use": false,
+      "sensitive_topics": [
+        "health"
+      ]
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-food-and-nourishment",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "What family recipe or food tradition do you know? Who taught it to you?",
+    "category": "Wellbeing",
+    "subcategory": "Food and Nourishment",
+    "also_seen_through": [
+      "Relationships"
+    ],
+    "elements": {
+      "do": "Two years after Elaine died, I recreated her vegetable soup from memory: a Greek-Swedish mix of tomatoes, dill and white beans that she never wrote down. I've made it every week since.",
+      "observe": "The first batch was close but not right, and I cried over the pot. Each week it gets a little closer. I learned that I'll never get it exactly right, and that the trying keeps her recipe alive.",
+      "tell": "She always started with olive oil and garlic, so I did too. Then tomatoes, roughly chopped. Dill. White beans. A bay leaf. The smell filled the kitchen, and for a moment I forgot she was gone. I sat down and tasted it. Close. Too much dill. The next week I used less, and added the squeeze of lemon I suddenly remembered her adding at the end. When Helen visited in March, she took one spoonful, set the spoon down and said, 'Dad. That's it.'",
+      "explore": "I'm writing down our family recipes with the stories behind them, starting with this soup. I wonder which other recipes went with her that I could still rebuild.",
+      "show": "The recipe card I finally wrote out, with notes on each week's changes. Elaine's blue bowl. The first page of the family cookbook."
+    },
+    "stewardship": {
+      "visibility": "People I choose",
+      "rep_may_use": false,
+      "sensitive_topics": [
+        "emotions"
+      ]
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-emotional-balance",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "What have you found that helps you through a hard day? How did you find it?",
+    "category": "Wellbeing",
+    "subcategory": "Emotional Balance",
+    "also_seen_through": [],
+    "elements": {
+      "do": "After Elaine died, I started sitting on my garden bench for five minutes each morning, just breathing, using an app Helen sent me. Most mornings it's fifteen minutes now.",
+      "observe": "At first my mind was a carnival of worry, and I quit twice in the first month. What helped was coming back to the breath, again and again. I learned that sitting with grief keeps it from sweeping me away.",
+      "tell": "Helen sent me the app the way people suggest things they know you'll resist: casually, with a link and no follow-up. I ignored it for a month. Then came a week of evenings so heavy that I'd sit in Elaine's chair and feel the house shrinking around me. The next morning I took my coffee to the garden bench, set the timer for five minutes and closed my eyes. A cardinal started up in the maple. I lost count of my breaths eleven times. When the timer chimed, the house felt the right size again.",
+      "explore": "I've started writing a few lines after each session, a weather report of my inner landscape. I'm curious whether I'll see patterns across a year of them.",
+      "show": "My notebook of morning entries."
+    },
+    "stewardship": {
+      "visibility": "Just me",
+      "rep_may_use": false,
+      "sensitive_topics": [
+        "emotions"
+      ]
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-rest-and-renewal",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "What routine helps you recharge? How did you build it?",
+    "category": "Wellbeing",
+    "subcategory": "Rest and Renewal",
+    "also_seen_through": [
+      "Making"
+    ],
+    "elements": {
+      "do": "I built a bedtime routine that starts at 9 p.m.: a beeswax candle, three lines in my journal, one chapter of a book. It has replaced most of my 2 a.m. ceiling-staring.",
+      "observe": "The first weeks I still woke at three most nights. The routine worked slowly, by teaching my mind that quiet hours aren't for worrying. I learned that rest is a habit I can practice.",
+      "tell": "For the first year after Elaine passed, nighttime was enemy territory. Then I tried a routine. At nine I light a beeswax candle, because Elaine liked the smell. I write three things from the day in my journal. Then I read one chapter, lately Marcus Aurelius, which is ironic, since the whole point is to stop thinking. Some nights the second chapter wins. One night in October I woke up and saw that it was 6 a.m. I'd slept straight through. I lay there for a while, just surprised.",
+      "explore": "I want to add gentle stretching before journaling, borrowed from yoga. I wonder whether I'll ever stop waking at three, or just get better at going back to sleep.",
+      "show": "The journal pages of three things a day. The beeswax candle on the nightstand. My well-worn copy of Meditations."
+    },
+    "stewardship": {
+      "visibility": "People I choose",
+      "rep_may_use": false,
+      "sensitive_topics": [
+        "health",
+        "emotions"
+      ]
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "cyrus-personal-and-spiritual-development",
+    "author": {
+      "name": "Cyrus",
+      "life_act": "Third Act",
+      "fictional": true
+    },
+    "prompt": "What tradition, practice or place in nature helps you feel grounded?",
+    "category": "Wellbeing",
+    "subcategory": "Personal and Spiritual Development",
+    "also_seen_through": [
+      "Adventure"
+    ],
+    "elements": {
+      "do": "My daily afternoon walk, first ordered by my doctor, became a practice of paying attention. I walk the same park path every day and carry a notebook.",
+      "observe": "For six months the walks were just exercise. Then I stopped one day for wild violets growing in a sidewalk crack, and the walks changed. I learned that taking care of myself doesn't require money or equipment; it requires showing up and noticing.",
+      "tell": "About six months after Elaine died, I noticed wild violets in a sidewalk crack near the park entrance: small, purple and completely unconcerned with the concrete around them. I stood there for five minutes, just looking. A man walking his dog stopped to see what I was staring at. 'Violets,' I said. He looked, nodded, and said, 'Huh. I walk past those every day.' From then on my notebook came along. I've walked that path through grief and loneliness and moments of plain surprise. The path never changes. I change on it.",
+      "explore": "I want to map my routes and annotate them season by season, a field guide to my own neighborhood. I'm curious what I'll notice in the second year that I missed in the first.",
+      "show": "My walking notebook. A pressed violet from that crack. The route map I've drawn so far."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Cyrus",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "jessi-integrity-and-honesty",
+    "author": {
+      "name": "Jessi",
+      "life_act": "Second Act",
+      "fictional": true
+    },
+    "prompt": "Have you ever found, or been handed, something that wasn't yours? What did you do?",
+    "category": "Character",
+    "subcategory": "Integrity and Honesty",
+    "also_seen_through": [
+      "Excellence"
+    ],
+    "elements": {
+      "do": "My paycheck from the yogurt shop came in about $40 too high. I told my manager that afternoon, and she corrected it.",
+      "observe": "Part of me wanted to keep it; $40 is almost a week of groceries. What decided it was my grandmother, who hands back extra change without a second thought. I learned that being honest about small things is practice for the big ones.",
+      "tell": "It was a Thursday, and I was checking my direct deposit on break. The number was about $40 higher than it should have been. My brain started rationalizing right away: they won't notice, you need it more. But Abuela was louder. She has never once said 'honesty is the best policy.' She just hands back the extra change at the grocery store and calls the utility company when they undercharge her. So I walked into the back office and showed my manager the screen. She checked the records, confirmed the error and thanked me. No reward, no fanfare. I went back to the counter and finished my shift.",
+      "explore": "Next time I'd flag it in writing so there's a record. I'm curious whether my manager sees me differently now.",
+      "show": "My manager's thank-you email. The corrected pay stub."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Jessi",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "jessi-courage-and-resilience",
+    "author": {
+      "name": "Jessi",
+      "life_act": "Second Act",
+      "fictional": true
+    },
+    "prompt": "What is something you did even though it scared you?",
+    "category": "Character",
+    "subcategory": "Courage and Resilience",
+    "also_seen_through": [
+      "Excellence",
+      "Adventure"
+    ],
+    "elements": {
+      "do": "After three weeks of walking past the flyer, I applied to the community college welding program, knowing the written tests would be hard with my dyslexia. I was accepted three days later.",
+      "observe": "My hands shook when I pressed submit. Welding didn't scare me; the reading did. Filling out the form slowly in my car, where no one could watch, is what worked. I learned I won't let words on a page decide what I can build.",
+      "tell": "The flyer for the welding program was pinned outside the student center. Every time I passed it, I pictured sparks and something real taking shape in my hands. Then I pictured safety manuals and written tests, all that dense text my dyslexia turns into swimming letters. One night after a long shift, I sat in my car in the parking lot and opened the application on my phone. I read every field twice, out loud. My finger hovered over submit for a full minute. Then I pressed it, before I could argue myself out of it. The acceptance email came three days later. I read it out loud to Abuela, who said, 'See? You can do hard things.'",
+      "explore": "I plan to keep choosing the scary option when the other choice is standing still. I'm still working out how to ask for test accommodations without feeling like I'm asking for a favor.",
+      "show": "The acceptance email. The flyer, which I took down and kept."
+    },
+    "stewardship": {
+      "visibility": "My group",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Jessi",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "jessi-responsibility-and-accountability",
+    "author": {
+      "name": "Jessi",
+      "life_act": "Second Act",
+      "fictional": true
+    },
+    "prompt": "Think of a mistake you owned up to. How did you make it right?",
+    "category": "Character",
+    "subcategory": "Responsibility and Accountability",
+    "also_seen_through": [
+      "Excellence"
+    ],
+    "elements": {
+      "do": "During a Saturday rush at the yogurt shop, I hadn't restocked the toppings bar because I'd been watching welding videos on my phone. I restocked it fast and told my manager it was my fault.",
+      "observe": "It would have been easy to blame the rush. Owning it went better than I expected; my manager thanked me for being straight with her. What stuck with me was letting my coworker Sarah down. I learned that my phone is a tool or a distraction depending on where I put it.",
+      "tell": "Saturday afternoons at the shop are a war zone: soccer teams, birthday parties, families of six. I was supposed to restock before the 2 p.m. rush, but I'd been scrolling welding videos in the back. By 2:15 we were out of strawberries and chocolate chips, and Sarah gave me a look that could cut glass. I restocked everything at double speed. Then I found my manager and said, 'I messed up. I should have prepped earlier, and I got distracted.' She nodded and said, 'Thanks for telling me.' The next Saturday I left my phone in my locker.",
+      "explore": "Now I set a timer for prep tasks, so the phone that distracted me keeps me on track instead. I'd like to ask Sarah whether there's anything else I can do to make Saturdays easier on her.",
+      "show": "The prep checklist I made and taped beside the toppings bar. My timer settings."
+    },
+    "stewardship": {
+      "visibility": "My group",
+      "rep_may_use": true,
+      "sensitive_topics": [
+        "regret"
+      ]
+    },
+    "provenance": {
+      "told_by": "Jessi",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "jessi-academic-and-intellectual-achievement",
+    "author": {
+      "name": "Jessi",
+      "life_act": "Second Act",
+      "fictional": true
+    },
+    "prompt": "What subject or problem did you struggle with until it finally clicked? What did you do to get there?",
+    "category": "Excellence",
+    "subcategory": "Academic and Intellectual Achievement",
+    "also_seen_through": [
+      "Character",
+      "Relationships"
+    ],
+    "elements": {
+      "do": "When welding class started, I made a deal with myself to read one page of the textbook out loud every evening. By the end of the month I was reading three pages a night and understanding them.",
+      "observe": "For years I'd hidden my dyslexia. The first few nights were miserable and slow. Reading aloud slowed my brain down enough for the words to stop swimming. I learned to work with my brain instead of around it.",
+      "tell": "Since middle school I'd hidden my dyslexia by skimming, guessing and nodding along. Welding wouldn't let me. You can't guess at a safety protocol. So every evening I sat cross-legged on my bed and read one page of the textbook out loud. The first night took forty minutes, and I wanted to throw the book across the room. Abuela sat in the kitchen with the door open and never said a word. By the second week, hearing the words made them stay put. At the end of the month I passed the first safety quiz on my own. Abuela was waiting in the kitchen. She didn't say anything. She just slid a plate of pan dulce across the table.",
+      "explore": "I've started using text-to-speech for longer readings. I want to know whether the same approach will carry me through the certification exam.",
+      "show": "My textbook, highlighted and covered in sticky tabs. The first safety quiz, passed."
+    },
+    "stewardship": {
+      "visibility": "People I choose",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Jessi",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "jessi-leadership-and-initiative",
+    "author": {
+      "name": "Jessi",
+      "life_act": "Second Act",
+      "fictional": true
+    },
+    "prompt": "When did you organize people to get something done?",
+    "category": "Excellence",
+    "subcategory": "Leadership and Initiative",
+    "also_seen_through": [
+      "Making"
+    ],
+    "elements": {
+      "do": "Closing at the yogurt shop was chaotic, so I sketched a color-coded flow chart that gave each person one station. It cut closing time by twenty minutes, and my manager made it the official training guide.",
+      "observe": "Nobody asked me to do it; I just saw the problem the way I see everything, as a picture. My coworkers laughed at first, and by the third night it worked. I learned that the way my brain works can make other people's jobs easier.",
+      "tell": "Closing used to look like bumper cars: four people doing random tasks and colliding behind the counter. On my break I grabbed a napkin and drew it out. Station 1, toppings and display. Station 2, machines. Station 3, floors. I color-coded it and taped it to the back wall. My coworkers laughed. 'Jessi made us a map.' By the third night we finished in twenty-five minutes instead of forty-five. My manager asked if she could laminate it. Now every new hire gets trained on 'Jessi's chart.'",
+      "explore": "I want to offer workflow design alongside branding, because visual problem-solving is a service people don't know they need. I'm curious whether a bigger business would hire me to do it.",
+      "show": "The original napkin sketch. The laminated chart on the back wall. My manager's note adding it to training."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Jessi",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "jessi-work-and-enterprise",
+    "author": {
+      "name": "Jessi",
+      "life_act": "Second Act",
+      "fictional": true
+    },
+    "prompt": "When did you earn money by making, selling or doing something?",
+    "category": "Excellence",
+    "subcategory": "Work and Enterprise",
+    "also_seen_through": [
+      "Making",
+      "Relationships"
+    ],
+    "elements": {
+      "do": "My friend Marisol hired me to design the brand for her new bakery: logo, menu, window signs and bag stickers. It was my first paid design job.",
+      "observe": "The logo took two weeks; I sketched by hand first, then refined it on the computer. When she first saw it she went quiet, which scared me. I also learned to track my hours, after realizing I'd charged for about half the time I spent.",
+      "tell": "Marisol wanted something warm but modern. I sketched by hand first, because I think in pictures, then built it in Illustrator: a rolling pin wrapped in wheat stalks, with lettering I adjusted to look handwritten. When I showed her, she didn't say anything for a long time. Then: 'That's exactly what I imagined but couldn't describe.' She paid me $300 in an envelope with a heart drawn on it. On opening day I stood across the street watching people walk in under a sign I'd made. A kid pointed at the window and told his mom, 'That's cool.' He wasn't talking to me. But I heard it.",
+      "explore": "I'm building a portfolio website to find more small-business clients, and Marisol offered to write a testimonial. I'm still figuring out what to charge.",
+      "show": "The bakery's window and menu. My logo sketches. Marisol's testimonial, shared with her permission."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Jessi",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "jessi-community-service-and-mutual-aid",
+    "author": {
+      "name": "Jessi",
+      "life_act": "Second Act",
+      "fictional": true
+    },
+    "prompt": "When did people around you pitch in to help each other? What was your part?",
+    "category": "Service",
+    "subcategory": "Community Service and Mutual Aid",
+    "also_seen_through": [
+      "Relationships",
+      "Adventure"
+    ],
+    "elements": {
+      "do": "Six months after moving back to Watsonville, I joined a Saturday park cleanup I'd seen on a laundromat flyer. I spent three hours on the creek trail and helped haul a shopping cart out of the bushes.",
+      "observe": "I almost didn't go, because I still felt like a visitor in my own town. Working beside strangers skipped the awkward part of being new. I learned that belonging can start with a trash bag and showing up.",
+      "tell": "Lucia, the organizer, handed me gloves and pointed me toward the creek trail. For two hours it was bottle caps and chip bags. Then a retired man named Carlos called me over to a shopping cart wedged deep in the blackberry bushes. 'On three,' he said. On three we both fell backward into the mud, and the cart didn't move. We laughed so hard Lucia came to check on us. On the second try it came loose. At noon Carlos invited me to a potluck the next weekend. I walked home with mud on my knees, feeling like I lived there again.",
+      "explore": "I'm going back next month, because Lucia needs help with the garden beds and Abuela taught me a few things about plants. I wonder what else I'd find if I said yes more often.",
+      "show": "Before-and-after photos of the creek trail. The group photo, shared with everyone's permission."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Jessi",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "jessi-mentorship-and-support",
+    "author": {
+      "name": "Jessi",
+      "life_act": "Second Act",
+      "fictional": true
+    },
+    "prompt": "When did you help someone learn something you know how to do?",
+    "category": "Service",
+    "subcategory": "Mentorship and Support",
+    "also_seen_through": [
+      "Relationships"
+    ],
+    "elements": {
+      "do": "I walked a new coworker, Anh, through the register during her first shift, standing beside her for three customers until she handled the fourth on her own.",
+      "observe": "I recognized her frozen look, because I've worn it in every new situation. Staying close without taking over is what worked. I learned that I'm paying forward every patient teacher who slowed down for me.",
+      "tell": "Anh was seventeen, on her first job, and the line was building. Her hands hovered over the register like it might bite. I stepped beside her and said, 'Watch me do one, then you do one.' I walked her through the category buttons. She rang up the next customer with my finger hovering near the screen, then the next. The fourth customer she handled alone. Her hands shook, but she smiled when the receipt printed. After close, on the back steps, she said, 'Thanks for not making me feel dumb.' I told her, 'You're not dumb. You're new. There's a difference.' I meant it for both of us.",
+      "explore": "Anh is interested in art, so I've started showing her design work on our breaks. I want to know whether I'd be good at teaching design for real.",
+      "show": "The register cheat sheet I made for new hires. A note from Anh, shared with her permission."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Jessi",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "jessi-advocacy-and-civic-action",
+    "author": {
+      "name": "Jessi",
+      "life_act": "Second Act",
+      "fictional": true
+    },
+    "prompt": "When did you speak up about something that wasn't fair?",
+    "category": "Service",
+    "subcategory": "Advocacy and Civic Action",
+    "also_seen_through": [
+      "Character",
+      "Making"
+    ],
+    "elements": {
+      "do": "I posted publicly about having dyslexia for the first time, with a caption about how it shapes the way I think and design. Within an hour, people I knew wrote to say they'd been hiding the same thing.",
+      "observe": "My thumb hovered for five minutes before I posted. I expected pity; what came back was recognition. I learned that being open about what I'd hidden made me visible, and may have made it easier for others.",
+      "tell": "I came across a post about architects, artists and engineers with dyslexia. For years I'd treated mine as a defect, something to hide behind guessing and nodding. That night I wrote my own caption: 'I have dyslexia. It makes reading hard and school harder. It also makes me think in pictures, which is why I can design things others can't imagine. It's a different operating system.' I read it out loud three times. Then I hit post and put my phone face down on the bed. When I turned it over an hour later, there were messages from people I'd known since middle school who said they had it too.",
+      "explore": "I'm planning a visual guide to dyslexia, designed by a dyslexic person for dyslexic people. I'm curious whether my old school would let me share it with students.",
+      "show": "The post itself, which I chose to make public. The first sketches for the visual guide."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Jessi",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "jessi-friendship-and-peer-support",
+    "author": {
+      "name": "Jessi",
+      "life_act": "Second Act",
+      "fictional": true
+    },
+    "prompt": "How did one of your friendships begin?",
+    "category": "Relationships",
+    "subcategory": "Friendship and Peer Support",
+    "also_seen_through": [
+      "Adventure"
+    ],
+    "elements": {
+      "do": "I met Marco on the first day of welding class, when we were both holding our helmets wrong. We've been practice partners ever since.",
+      "observe": "Admitting we were both lost made it easy. We cover each other's gaps: he knows materials and I know design. I learned that friendships built on honest beginner moments are sturdy.",
+      "tell": "The instructor told us to gear up, and I looked at my helmet like it was a puzzle box. Across the bench, Marco was turning his upside down. We made eye contact and burst out laughing. 'I'm Marco. I have no idea what I'm doing.' 'Jessi. Same.' From then on we were partners: practicing after class, comparing burns, celebrating each other's first clean bead like we'd won gold. He's a carpenter's kid who had never welded. I'm a designer who had never built anything that wasn't on a screen.",
+      "explore": "Marco and I want to make a welded sculpture for the community garden, his structure with my design. I wonder whether we'll still be partners after the program ends.",
+      "show": "The day-one photo of us in full gear, shared with Marco's permission. Our first matching practice beads."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Jessi",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "jessi-family-and-generations",
+    "author": {
+      "name": "Jessi",
+      "life_act": "Second Act",
+      "fictional": true
+    },
+    "prompt": "What did an older family member teach you? How did they teach it?",
+    "category": "Relationships",
+    "subcategory": "Family and Generations",
+    "also_seen_through": [
+      "Making"
+    ],
+    "elements": {
+      "do": "Abuela and I spent a Sunday emptying and reorganizing her kitchen. While we sorted, she told me stories about my mom that I had never heard.",
+      "observe": "What started as a chore became a conversation I'll keep forever. I'd always felt like I was starting from scratch; I learned I'm continuing something. Abuela taught me the way she always does, with her hands busy and the important part said almost in passing.",
+      "tell": "We pulled everything out: mismatched containers, jars with faded labels, pots without lids. As we sorted, she started talking. My mom at twenty, the same age I am now, working two jobs and drawing in a sketchbook every night. Abuela took my hand and turned the palm up. 'She had your hands,' she said. 'Artist hands.' She told me my mom had been afraid of failing too, and that the fear never fully leaves. 'You learn to move with it,' she said, and handed me a jar of cumin from 2009 to throw away.",
+      "explore": "Abuela thinks one of my mom's old sketchbooks might be in the attic, and we're looking next Sunday. I want to see what my mom drew.",
+      "show": "The reorganized kitchen. The sketchbook, if we find it."
+    },
+    "stewardship": {
+      "visibility": "People I choose",
+      "rep_may_use": false,
+      "sensitive_topics": [
+        "family circumstances"
+      ]
+    },
+    "provenance": {
+      "told_by": "Jessi",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "jessi-community-and-teamwork",
+    "author": {
+      "name": "Jessi",
+      "life_act": "Second Act",
+      "fictional": true
+    },
+    "prompt": "Where do you feel you truly belong? Tell about one day there.",
+    "category": "Relationships",
+    "subcategory": "Community and Teamwork",
+    "also_seen_through": [
+      "Making",
+      "Excellence"
+    ],
+    "elements": {
+      "do": "I brought my laptop and a digital design to my first meeting of the Watsonville Arts Collective, worried that painters and sculptors wouldn't count graphic design as art. Three weeks later I designed the poster for their group show.",
+      "observe": "Walking in with a laptop felt like bringing a calculator to a poetry reading, and they proved me wrong in the first ten minutes. I learned that design is another way of making something that moves people, and that nobody can see my work unless I show it.",
+      "tell": "The Collective meets Thursdays in the back room of a coffee shop. Everyone else had canvases, sketchbooks and clay on their hands. I pulled up Marisol's bakery logo and turned the screen around. Nobody said anything. Then Elena, who paints huge abstracts, leaned in. 'The balance in this is really satisfying. You understand negative space.' Ray, a sculptor, asked if I'd design the poster for their spring show. Three weeks later the poster was in the window, and my name was on the artist list under Elena's.",
+      "explore": "I'm designing the Collective's whole visual identity, which is building my portfolio and my community at the same time. I'm curious whether I could show a welded piece at the next show.",
+      "show": "The show poster in the coffee shop window. The artist list with my name on it."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Jessi",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "jessi-intellectual-curiosity",
+    "author": {
+      "name": "Jessi",
+      "life_act": "Second Act",
+      "fictional": true
+    },
+    "prompt": "What book, video or conversation made you want to learn more? What did you do next?",
+    "category": "Adventure",
+    "subcategory": "Intellectual Curiosity",
+    "also_seen_through": [
+      "Excellence"
+    ],
+    "elements": {
+      "do": "Before my first welding class, I taught myself the basics from a YouTube channel by a welder named Jody, watching his MIG welding video four times and drawing diagrams. On day one I could name every part of the welding gun.",
+      "observe": "Reading instructions scrambles my brain; watching hands do the thing makes it stick. I learned that video is how I learn best, and that it counts as real learning.",
+      "tell": "Jody explains everything slowly, with close-ups of the weld pool. I propped my phone against a pillow and watched his MIG basics video four times, pausing to sketch what I saw: the gun, the wire feed, the angle of his wrist. By the time class started, I knew the vocabulary: travel speed, wire feed, shielding gas. On day one the instructor held up the gun and asked who could name the parts. I raised my hand and named all of them. She raised an eyebrow. 'Where'd you learn that?' 'YouTube,' I said. She laughed, but she looked impressed.",
+      "explore": "I'm building a library of tutorial videos for different skills. I wonder whether I could make tutorials for other visual learners someday.",
+      "show": "My notebook of hand-drawn diagrams from Jody's videos. My day-one notes."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Jessi",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "jessi-new-places-and-new-beginnings",
+    "author": {
+      "name": "Jessi",
+      "life_act": "Second Act",
+      "fictional": true
+    },
+    "prompt": "What place near where you live did you explore for the first time?",
+    "category": "Adventure",
+    "subcategory": "New Places and New Beginnings",
+    "also_seen_through": [
+      "Wellbeing",
+      "Making"
+    ],
+    "elements": {
+      "do": "Feeling stuck after moving back to Watsonville, I drove toward the coast one Saturday with no plan. I found a bluff above the water I'd never known about and stayed for an hour.",
+      "observe": "I'd felt trapped for weeks. Sitting on that bluff, I felt something new: not stuck, but starting. I learned that I need regular time with no plan, and that it can be twenty minutes from home.",
+      "tell": "I drove past the strawberry fields and past Moss Landing until I saw a turnoff I'd never noticed. A dirt path led to a bluff. Below me, harbor seals were sunning on the rocks, and pelicans were folding their wings and dropping into the water like they'd been thrown. I sat on the edge for an hour, breathing salt air. The ocean didn't care about my career anxiety. Before I left, I took twenty photos. That week I turned one into an abstract design for the art group. Elena looked at it and said it felt like 'being between things.' That's exactly where I was.",
+      "explore": "I want to take a solo coast trip every month: a different beach, a camera, no agenda. I'm curious what the bluff looks like in winter.",
+      "show": "My photos from the bluff. The abstract design I made from one of them."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Jessi",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "jessi-creative-exploration",
+    "author": {
+      "name": "Jessi",
+      "life_act": "Second Act",
+      "fictional": true
+    },
+    "prompt": "When did you try a kind of creating you had never done before?",
+    "category": "Adventure",
+    "subcategory": "Creative Exploration",
+    "also_seen_through": [
+      "Making"
+    ],
+    "elements": {
+      "do": "After a few weeks of welding practice, I collected scrap metal from the shop's discard bin and welded it into a foot-tall abstract sculpture, my first piece combining design with welding.",
+      "observe": "The first joints were ugly; by the fourth I was getting cleaner beads. I learned that metal doesn't have an undo button. Every decision stays, and that turned out to be freeing.",
+      "tell": "I spread the scraps on the bench and arranged them the way I'd arrange a layout on screen: balance, negative space, tension. Then I lowered my helmet and started. The first weld blobbed. The second cracked when I moved the piece. By the fourth, the bead was clean and even. When I finished, Marco walked around it twice and said it looked like a dancer. My instructor said, 'The welding is adequate, but the composition is excellent.' Possibly the best review I've ever gotten. I carried it home on the bus in my lap, and it was heavier than I expected.",
+      "explore": "I want to make a series of metal sculptures inspired by the coast. I'm still learning how to make my welds as strong as my compositions.",
+      "show": "The sculpture on my shelf. Close-up photos of the welds, rough and clean. My instructor's written feedback."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Jessi",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "jessi-visual-art-and-craft",
+    "author": {
+      "name": "Jessi",
+      "life_act": "Second Act",
+      "fictional": true
+    },
+    "prompt": "What did you draw, paint, sculpt, sew or build by hand that matters to you?",
+    "category": "Making",
+    "subcategory": "Visual Art and Craft",
+    "also_seen_through": [
+      "Excellence",
+      "Relationships"
+    ],
+    "elements": {
+      "do": "My friend Daniela asked me to redo her handwritten flyer for a pop-up clothing sale. I redesigned it around a hand-drawn clothing rack and a bold date, and we put up fifty copies around Watsonville.",
+      "observe": "Her original buried the date in a paragraph, so making the date the biggest thing on the page was the key fix. Seeing a copy rained on but still readable taught me that design is communication more than decoration. I didn't charge her, and I'm glad.",
+      "tell": "Daniela texted a photo of her flyer: tiny handwriting, the date hidden in the middle of a paragraph. 'Can you make this not ugly?' I spent an evening on it. I drew a clothing rack by hand, scanned it, set the date in huge letters and warmed up the colors. We printed fifty copies at the library for $3.50 and spent Saturday taping them to poles around town. The pop-up was packed. One woman asked Daniela who made the flyer, and Daniela pointed at me. The woman took my number. She owns a taqueria, and she wants a new menu.",
+      "explore": "I'm starting an affordable design service for small businesses that can't hire agencies. I wonder how many other flyers in town are hiding their dates.",
+      "show": "The before-and-after flyers. A photo of one taped to a pole after the rain."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Jessi",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "jessi-invention-design-and-repair",
+    "author": {
+      "name": "Jessi",
+      "life_act": "Second Act",
+      "fictional": true
+    },
+    "prompt": "What did you design or build to solve a problem?",
+    "category": "Making",
+    "subcategory": "Invention, Design and Repair",
+    "also_seen_through": [
+      "Relationships",
+      "Excellence"
+    ],
+    "elements": {
+      "do": "For a class assignment, Marco and I built a functional metal box with a hinged lid. He handled the structural welds; I planned the proportions, ground the seams smooth and added a decorative weld pattern on the lid.",
+      "observe": "We disagreed at first: he wanted strength, and I wanted it to look good. Splitting the work by our strengths went well. I learned that function and form are better partners than rivals.",
+      "tell": "Our instructor gave us one rule: the lid had to open and close a hundred times without binding. Marco wanted to start welding immediately. 'It's a box, Jessi. It doesn't need to be pretty.' 'Everything needs to be pretty,' I said. 'That's what design is for.' We agreed he'd own the structure and I'd own everything you could see. The first hinge bound after twelve openings. Marco reground it, and I narrowed the lid by an eighth of an inch. On test day it opened and closed a hundred times. Our instructor held it up for the class: 'This is what happens when function and form work together.'",
+      "explore": "The box sits on my dresser holding my jewelry. Next we're planning a sculpture for the community garden, and I want to learn hinges well enough to design my own.",
+      "show": "The box itself. Our sketch with dimensions. The hinge test sheet with a hundred tally marks."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Jessi",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "jessi-digital-creation",
+    "author": {
+      "name": "Jessi",
+      "life_act": "Second Act",
+      "fictional": true
+    },
+    "prompt": "What video, game, app, website or track did you make with digital tools?",
+    "category": "Making",
+    "subcategory": "Digital Creation",
+    "also_seen_through": [
+      "Excellence",
+      "Character"
+    ],
+    "elements": {
+      "do": "I built my design portfolio website over three weekends with a website builder, including case studies for the bakery, the flyer and the Arts Collective. Two weeks after it went live, a new client found me through it.",
+      "observe": "The design was the easy part; the writing was hard, because every case study meant paragraphs of text. Recording myself describing each project, then typing it up, is what worked. I learned that I can build the things I used to think were for other people.",
+      "tell": "The first weekend I built the whole layout and wrote nothing. Every time I opened a text box, my chest got tight. Then I tried something: I set my phone to record and talked through the bakery project like I was telling Abuela about it. I typed up what I'd said, ran the spell checker, and it sounded like me. I did the same for the flyer and the Collective. I added alt text to every image, because I know what it's like when words are the hard part. Two weeks after launch, an email came in from a nursery owner in Aptos: 'Found your site. Love the bakery logo. Are you taking clients?'",
+      "explore": "I want to add the dyslexia visual guide to the site when it's done. I'm curious whether I should learn to code the next version myself.",
+      "show": "The live site. The voice memos I typed the case studies from. The first client email, shared with her permission."
+    },
+    "stewardship": {
+      "visibility": "Public",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Jessi",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "jessi-movement-and-physical-activity",
+    "author": {
+      "name": "Jessi",
+      "life_act": "Second Act",
+      "fictional": true
+    },
+    "prompt": "What way of moving your body did you start or stick with: a sport, dance, walking or play?",
+    "category": "Wellbeing",
+    "subcategory": "Movement and Physical Activity",
+    "also_seen_through": [
+      "Character"
+    ],
+    "elements": {
+      "do": "After eight-hour shifts left me stiff, I started a five-minute morning stretching routine from a video. I've done it almost every morning for a month.",
+      "observe": "At first I could barely reach my knees, and I slept better right away. Trimming the routine to the moves that actually helped is what made it stick. I learned that taking care of my body doesn't need a gym, just five minutes.",
+      "tell": "After a double shift, I woke up feeling wrung out, like a dish towel. I found a stretching video and propped my phone against the lamp. The instructor said, 'Reach as far as feels kind,' and I reached about as far as my knees. That night I slept straight through for the first time in weeks. I kept going, cutting the routine down to the five moves that actually helped. One morning I bent over and my fingertips brushed the floor. I said 'Oh!' out loud, and Abuela called from the kitchen to ask if I was okay.",
+      "explore": "I want to add a few yoga poses once I'm more flexible. I wonder whether stretching on my breaks would help my back on long shifts.",
+      "show": "My stretching tracker with a month of check marks. The five-move routine, written out."
+    },
+    "stewardship": {
+      "visibility": "My group",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Jessi",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "jessi-emotional-balance",
+    "author": {
+      "name": "Jessi",
+      "life_act": "Second Act",
+      "fictional": true
+    },
+    "prompt": "What have you found that helps you through a hard day? How did you find it?",
+    "category": "Wellbeing",
+    "subcategory": "Emotional Balance",
+    "also_seen_through": [],
+    "elements": {
+      "do": "I started taking a twenty-minute walk after work with no phone and no headphones. I've done it most evenings for two months.",
+      "observe": "I used to come home and scroll, and it left me overstimulated and under-rested. Twenty minutes of quiet loosened the tightness in my chest. I learned that my brain needs empty space the way a design needs white space.",
+      "tell": "One evening I left my phone on the kitchen table and walked out the door before I could change my mind. No music. Just my shoes on the sidewalk and the neighborhood: sprinklers ticking, someone grilling, two kids racing bikes. For the first few blocks I kept reaching for my pocket. By the end of the street I'd stopped. Twenty minutes later I came back in, and Abuela looked up from her crossword. 'You seem calmer,' she said. 'Like you're actually here when you're here.'",
+      "explore": "I'm trying longer stretches of time without my phone. I wonder what else I'd notice if I gave the quiet an hour.",
+      "show": "My walking route. The notes I jot down when I get home."
+    },
+    "stewardship": {
+      "visibility": "People I choose",
+      "rep_may_use": false,
+      "sensitive_topics": [
+        "emotions"
+      ]
+    },
+    "provenance": {
+      "told_by": "Jessi",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "jessi-rest-and-renewal",
+    "author": {
+      "name": "Jessi",
+      "life_act": "Second Act",
+      "fictional": true
+    },
+    "prompt": "When did you choose to rest, and what did it give you?",
+    "category": "Wellbeing",
+    "subcategory": "Rest and Renewal",
+    "also_seen_through": [
+      "Making",
+      "Relationships"
+    ],
+    "elements": {
+      "do": "When I started burning out from six days at the shop plus classes, I made Sunday my personal day: no work, no homework, just art and rest. I've kept it for two months.",
+      "observe": "The first Sunday felt like cutting class. By the fourth it felt essential, and my weekday work got better because I wasn't running on empty. I learned that rest is part of the work, rather than a break from it.",
+      "tell": "Abuela watched me fall asleep over my welding textbook at the kitchen table and said, 'You need a day.' So I picked Sunday. I woke up without an alarm, made coffee slowly and spread everything across the table: watercolors, markers, a sketchbook. Nothing for a client, nothing with a deadline. The neighbor's cat sat on the windowsill, so I drew it without its permission. Abuela sat across from me with her crossword. We didn't talk much. We didn't need to.",
+      "explore": "I want to build smaller moments of rest into every day, not just Sundays. I'm curious whether my Sunday sketches will turn into a series.",
+      "show": "My Sunday sketchbook. The drawing of the neighbor's cat."
+    },
+    "stewardship": {
+      "visibility": "My group",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Jessi",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "melu-integrity-and-honesty",
+    "author": {
+      "name": "Melu",
+      "life_act": "First Act",
+      "fictional": true
+    },
+    "prompt": "Have you ever found, or been handed, something that wasn't yours? What did you do?",
+    "category": "Character",
+    "subcategory": "Integrity and Honesty",
+    "also_seen_through": [
+      "Relationships"
+    ],
+    "elements": {
+      "do": "After art class, I found a set of professional watercolors on the floor by the water fountain, the kind I'd wanted for months. I took it to the main office.",
+      "observe": "For thirty seconds I made a whole list of reasons to keep them. What decided it was thinking about my mom, who never takes a shortcut. I learned that needing something and it being mine are two different things.",
+      "tell": "The zippered case was lying by the water fountain. Inside were Winsor & Newton watercolors, the ones I'd been staring at in the art store window since September. My heart sped up. I pictured them on my desk and the colors I'd mix for my Ellington portfolio. For thirty seconds I had a whole argument going: whoever lost them can buy more, and I'd use them better. Then I thought about my mom coming home from a twelve-hour shift and still counting the change twice. I zipped the case and walked it to the office. Two days later I saw an older student, Priya, pick them up from lost-and-found and hug the case. They had been a gift from her grandmother.",
+      "explore": "I'm saving for my own set of professional watercolors. I'm curious how long it will take, and whether I'll appreciate them more for it.",
+      "show": "The lost-and-found slip from the office. My savings jar for the paints."
+    },
+    "stewardship": {
+      "visibility": "My group",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Melu",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "melu-leadership-and-initiative",
+    "author": {
+      "name": "Melu",
+      "life_act": "First Act",
+      "fictional": true
+    },
+    "prompt": "What did you start that other people joined?",
+    "category": "Excellence",
+    "subcategory": "Leadership and Initiative",
+    "also_seen_through": [
+      "Making",
+      "Service",
+      "Relationships"
+    ],
+    "elements": {
+      "do": "When I was ten, I asked my art teacher, Ms. Rivera, if we could turn the blank wall of the corner store into a mural. I went door to door collecting ideas, designed it, and organized two weekends of neighbors painting a 40-foot tree of life.",
+      "observe": "The hardest part was fitting everyone's ideas into one design without it looking like a list. Going door to door worked better than a meeting would have, because people told me things they'd never say in a group. I learned that art can be something you make together.",
+      "tell": "The wall had been blank as long as I could remember: gray cinder block that got tagged and painted over every few months. Ms. Rivera helped me write a proposal to the store owner, Mr. Kwame. He said yes on one condition: it had to represent the whole neighborhood. So I knocked on doors with a clipboard. Mrs. Thompson wanted cherry blossoms from her childhood in Georgia. The Herrera kids wanted a soccer ball. Mr. Park wanted the Korean flag next to the American one. I sketched a tree with all of it in the roots and a sky full of hands. For two weekends, little kids, grandparents and teenagers who usually didn't look at each other all held brushes. When we finished, Mr. Kwame stood across the street for a long time. 'That's not a wall anymore,' he said. 'That's a mirror.'",
+      "explore": "I want to lead a second mural at the community center, bigger and with even more input. I'm still figuring out how to include the people who didn't answer their doors.",
+      "show": "Photos of the finished mural. My clipboard of neighbors' ideas. The proposal Ms. Rivera helped me write."
+    },
+    "stewardship": {
+      "visibility": "My group",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Melu",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "melu-mentorship-and-support",
+    "author": {
+      "name": "Melu",
+      "life_act": "First Act",
+      "fictional": true
+    },
+    "prompt": "When did you help someone learn something you know how to do?",
+    "category": "Service",
+    "subcategory": "Mentorship and Support",
+    "also_seen_through": [
+      "Relationships",
+      "Excellence"
+    ],
+    "elements": {
+      "do": "I ran a free weekend painting workshop for nine kids, ages five to eight, at the community center. I set up stations and helped each kid start a painting.",
+      "observe": "The beginning was rough: most of the kids were shy, and one was crying. Asking each kid about their favorite thing worked better than any instructions. I learned that teaching art is mostly giving permission.",
+      "tell": "I set up paper-plate palettes and big brushes, and nine kids walked in. Most were shy. One was already crying. A boy named Jaylen sat staring at his blank paper, so I knelt beside him. 'What's your favorite thing in the whole world?' 'My dog.' 'What color is your dog?' 'Brown.' 'Let's make brown.' I showed him red, then yellow, then a tiny bit of blue. When brown appeared on his plate, his eyes went wide. 'I MADE brown,' he said, like he'd discovered a new element. He painted his dog, lopsided and joyful, and held it up. The other kids clapped.",
+      "explore": "I'm planning monthly workshops, and Ms. Rivera offered to help with lessons. I want to know whether I could train other teen artists to lead them.",
+      "show": "The workshop flyer. My lesson plan. Jaylen's brown-dog painting, shared with his family's permission."
+    },
+    "stewardship": {
+      "visibility": "My group",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Melu",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "melu-friendship-and-peer-support",
+    "author": {
+      "name": "Melu",
+      "life_act": "First Act",
+      "fictional": true
+    },
+    "prompt": "When did a friend help you through something hard, or you helped them?",
+    "category": "Relationships",
+    "subcategory": "Friendship and Peer Support",
+    "also_seen_through": [
+      "Making"
+    ],
+    "elements": {
+      "do": "My friend Amara was stuck on a mixed-media piece for the school showcase, so I stayed after school to help her finish it. We worked for two hours.",
+      "observe": "The first hour was about technique, and it went fine. The second hour we talked about the pressure we both feel at home, and that mattered more. I learned that showing up for a friend sometimes has nothing to do with the project.",
+      "tell": "Amara had been quiet all week. Her piece, fabric and paint and photographs about her family, was beautiful in her head and falling apart on the table. I pulled up a chair and said, 'Show me what you're seeing.' For an hour we worked out how to layer the fabric so the photographs showed through. Then she put down her brush and started talking, and I listened. I told her about my mom working doubles, and about the days I feel like art is selfish because it doesn't pay bills. By the end we were laughing and crying, with paint on our faces, and her piece was finally coming together.",
+      "explore": "Amara and I are talking about making something together for our Ellington applications, her storytelling with my composition. I wonder what we'd make if we started from the same blank canvas.",
+      "show": "Amara's finished piece at the showcase, shared with her permission. A photo of our paint-covered table."
+    },
+    "stewardship": {
+      "visibility": "People I choose",
+      "rep_may_use": false,
+      "sensitive_topics": [
+        "emotions",
+        "family circumstances"
+      ]
+    },
+    "provenance": {
+      "told_by": "Melu",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "melu-intellectual-curiosity",
+    "author": {
+      "name": "Melu",
+      "life_act": "First Act",
+      "fictional": true
+    },
+    "prompt": "What book, video or conversation made you want to learn more? What did you do next?",
+    "category": "Adventure",
+    "subcategory": "Intellectual Curiosity",
+    "also_seen_through": [
+      "Making"
+    ],
+    "elements": {
+      "do": "Ms. Rivera took our class to a Smithsonian lecture on Latin American muralism. I filled six pages of my sketchbook, and afterward I started reading about African American mural movements in Chicago and Philadelphia.",
+      "observe": "I found out that the symbols in my neighborhood mural, hands and roots and community, belong to a long tradition. It felt like finding my artistic ancestors. I learned that you can do something important before you know its name.",
+      "tell": "The lecturer clicked through slide after slide of enormous walls covered in workers, farmers and marchers. 'These murals weren't decoration,' she said. 'They were declarations.' I sketched so fast my pencil broke. Then she showed a mural with a tree, its roots full of symbols, and I stopped drawing. It looked like the one on our corner store. Afterward I told Ms. Rivera I felt like I'd been doing something important without knowing what it was called. She smiled. 'That's what tradition feels like. You recognize it because it was already in you.'",
+      "explore": "I'm reading about the Chicago and Philadelphia mural movements, my own cultural thread. I want to know whether anyone painted a mural in my neighborhood before ours.",
+      "show": "My sketchbook pages from the lecture. My reading list. A side-by-side of a slide from the lecture and our mural."
+    },
+    "stewardship": {
+      "visibility": "My group",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Melu",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "melu-visual-art-and-craft",
+    "author": {
+      "name": "Melu",
+      "life_act": "First Act",
+      "fictional": true
+    },
+    "prompt": "What did you draw, paint, sculpt, sew or build by hand that matters to you?",
+    "category": "Making",
+    "subcategory": "Visual Art and Craft",
+    "also_seen_through": [
+      "Excellence",
+      "Relationships"
+    ],
+    "elements": {
+      "do": "For the community center's open art show, I painted a large abstract canvas, full of bright interlocking figures, about my neighborhood's energy. I had two weeks, and I titled it 'Still Here.'",
+      "observe": "My planned sketches all failed; it only came together when I stopped planning and started painting. I named it 'Still Here' because that's what my community is. I learned that some paintings come from my head and some come from somewhere closer to my stomach.",
+      "tell": "I had two weeks and a stack of sketches I hated. One Saturday I gave up on the sketches, squeezed out warm orange, the color of sunset on my block, and started painting with no plan. Then came figures: dancers, runners, people reaching for each other. I kept layering until the canvas felt loud. At the show, people kept stopping in front of it. A woman told me it felt 'like coming home after a long day.' A little boy said it looked like a party. Both were right.",
+      "explore": "I'm entering 'Still Here' in the citywide youth competition, and it's going in my Ellington portfolio either way. I'm curious whether I can paint without a plan on purpose next time.",
+      "show": "The painting. The sketches that didn't work. The comment cards from the show."
+    },
+    "stewardship": {
+      "visibility": "My group",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Melu",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  },
+  {
+    "id": "melu-movement-and-physical-activity",
+    "author": {
+      "name": "Melu",
+      "life_act": "First Act",
+      "fictional": true
+    },
+    "prompt": "What physical challenge did you work up to? How did you prepare?",
+    "category": "Wellbeing",
+    "subcategory": "Movement and Physical Activity",
+    "also_seen_through": [
+      "Character"
+    ],
+    "elements": {
+      "do": "At summer dance camp, I learned a difficult West African-inspired contemporary routine. I struggled with it for four days, practiced every night, and performed it on day five.",
+      "observe": "For three days I was the worst dancer in the room, and I almost switched workshops. Practicing at night until my bunkmate made me stop is what changed it. I learned that muscle memory is a kind of trust.",
+      "tell": "The routine had sharp isolations and low groundwork that felt impossible. For three days I was the worst dancer in the room, and I was ready to switch to the drawing workshop. On day four, Miss Adjua stopped next to me. 'Your body is learning. Your brain needs to get out of the way.' That night I practiced in the cabin until my bunkmate threw a pillow at me. On day five the music started and my body took over. The transitions flowed. When the music stopped, the room erupted. Miss Adjua pointed at me. 'That is what persistence looks like.' I cried, the happy, exhausted kind.",
+      "explore": "I'm bringing the routine to my dance class and adding my own elements. I want to know whether I could perform it at my Ellington audition.",
+      "show": "The camp's video of the final performance, shared with the camp's permission. My practice notes."
+    },
+    "stewardship": {
+      "visibility": "My group",
+      "rep_may_use": true,
+      "sensitive_topics": []
+    },
+    "provenance": {
+      "told_by": "Melu",
+      "language": "en",
+      "source": "Dotes sample personas (fictional)"
+    }
+  }
+]

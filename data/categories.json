@@ -1,0 +1,389 @@
+{
+  "name": "Dotes categories",
+  "author": "Michael Robbins",
+  "contact": "michael@intospatia.xyz",
+  "url": "https://dotes.xyz",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "name_use": "The name Dotes is free for anyone to use.",
+  "categories": [
+    {
+      "name": "Character",
+      "focus": "Values and choices",
+      "lens_question": "What was at stake, what did you choose, and what did the choice reveal?",
+      "definition": "Experiences in which values are tested or expressed through a choice: honesty, courage, empathy, fairness, responsibility.",
+      "boundary": "Character is not a moral score. A dote about a mistake, a regret or a change of mind can be among the most important a person tells.",
+      "subcategories": [
+        {
+          "name": "Integrity and Honesty",
+          "intent": "a time you told the truth or kept your word when it cost you something",
+          "starter_prompts": [
+            "When did you tell the truth even though a lie would have been easier?",
+            "When did you keep a promise that turned out to be hard to keep?",
+            "Have you ever found, or been handed, something that wasn't yours? What did you do?"
+          ]
+        },
+        {
+          "name": "Courage and Resilience",
+          "intent": "a time you did something hard or frightening, or kept going after a setback",
+          "starter_prompts": [
+            "When did you stand up for someone, or for what was right, when others stayed quiet?",
+            "What is something you did even though it scared you?",
+            "Think of a setback you came back from. What did you do to keep going?"
+          ]
+        },
+        {
+          "name": "Empathy and Compassion",
+          "intent": "a time you worked to understand what someone else was going through, and acted on it",
+          "starter_prompts": [
+            "When did you notice someone was struggling and do something about it?",
+            "When did you change how you treated someone after you understood their side?",
+            "When did you give something up so someone else could have it?"
+          ]
+        },
+        {
+          "name": "Responsibility and Accountability",
+          "intent": "a time you owned a mistake and made it right, or carried a responsibility others relied on, including at home",
+          "starter_prompts": [
+            "Think of a mistake you owned up to. How did you make it right?",
+            "What do people count on you for, at home, at school or at work? Tell about a day it really mattered.",
+            "When did you take care of someone in your family, like watching a younger sibling or translating for a relative?"
+          ]
+        },
+        {
+          "name": "Ethical Reflection and Growth",
+          "intent": "a time you changed your mind about what was right or fair, and why",
+          "starter_prompts": [
+            "When did you change your mind about something after learning more?",
+            "What hard choice taught you something about yourself?",
+            "When did you think about what was fair for everyone, not just for you?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Excellence",
+      "focus": "Effort and achievement",
+      "lens_question": "What were you working toward, and what happened along the way?",
+      "definition": "Experiences of setting a goal or standard and working to reach it, in school, sports, the arts, leadership or work.",
+      "boundary": "Excellence is not about being better than other people. Falling short, changing goals or deciding to stop can still show real growth.",
+      "subcategories": [
+        {
+          "name": "Academic and Intellectual Achievement",
+          "intent": "a time you worked hard to understand or master something, in school or on your own",
+          "starter_prompts": [
+            "What subject or problem did you struggle with until it finally clicked? What did you do to get there?",
+            "What project are you proud you finished? What was the hardest part?",
+            "What did you teach yourself because you wanted to understand it?"
+          ]
+        },
+        {
+          "name": "Creative and Artistic Achievement",
+          "intent": "a time you worked to reach a standard in an art, craft or performance",
+          "starter_prompts": [
+            "What piece did you practice or rework until it met your own standard?",
+            "Tell about getting ready for a performance, show or exhibit.",
+            "When did feedback on your creative work help you get better?"
+          ]
+        },
+        {
+          "name": "Athletic and Physical Achievement",
+          "intent": "a time you trained or pushed yourself toward a physical goal",
+          "starter_prompts": [
+            "What physical goal did you train for? What did the training look like?",
+            "Tell about a game, race or match where you gave everything you had, win or lose.",
+            "What new move or skill did you work to learn with your body?"
+          ]
+        },
+        {
+          "name": "Leadership and Initiative",
+          "intent": "a time you started something, or led others toward a goal",
+          "starter_prompts": [
+            "What did you start that other people joined?",
+            "When did you organize people to get something done?",
+            "When did you keep a group going after things got hard?"
+          ]
+        },
+        {
+          "name": "Work and Enterprise",
+          "intent": "a time you learned by working, earning or running something: a job, a business, a family enterprise",
+          "starter_prompts": [
+            "What did you learn at a job, paid or unpaid?",
+            "When did you earn money by making, selling or doing something?",
+            "Tell about work other people depended on you for: a family business, a side job or work at home."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Service",
+      "focus": "Care and contribution",
+      "lens_question": "Who or what did you help, and what did you take responsibility for?",
+      "definition": "Experiences of helping, caring for, teaching, speaking up for or protecting people, communities, places or causes.",
+      "boundary": "Service is not measured in volunteer hours, and it is not limited to helping someone 'less fortunate.' Mutual aid, listening, caring for family and sharing power all count.",
+      "subcategories": [
+        {
+          "name": "Community Service and Mutual Aid",
+          "intent": "a time you helped meet a need in your community, alone or with others",
+          "starter_prompts": [
+            "When did you help meet a need in your neighborhood or community?",
+            "When did people around you pitch in to help each other? What was your part?",
+            "What did you work on that made a place you care about better?"
+          ]
+        },
+        {
+          "name": "Environmental Stewardship",
+          "intent": "a time you acted to care for a place, land, water or animals",
+          "starter_prompts": [
+            "What did you do to care for a park, a garden, a stream or animals?",
+            "What habit did you change to waste less, and what happened?",
+            "When did you show someone else how to care for a place?"
+          ]
+        },
+        {
+          "name": "Mentorship and Support",
+          "intent": "a time you helped someone else learn, grow or get through something",
+          "starter_prompts": [
+            "When did you help someone learn something you know how to do?",
+            "When did you help a younger student, teammate or sibling through something hard?",
+            "What advice did you give that actually helped someone? What happened next?"
+          ]
+        },
+        {
+          "name": "Advocacy and Civic Action",
+          "intent": "a time you spoke up or acted to change something for others",
+          "starter_prompts": [
+            "When did you speak up about something that wasn't fair?",
+            "When did you work with others to change a rule, a decision or a situation?",
+            "What did you do after you learned about a problem in your community or the world?"
+          ]
+        },
+        {
+          "name": "Inclusion and Kindness",
+          "intent": "a time you made room for someone who was left out or treated unfairly",
+          "starter_prompts": [
+            "When did you make sure someone who was left out got included?",
+            "When did you welcome someone new?",
+            "When were you kind to someone others were treating unfairly?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Relationships",
+      "focus": "Connection and belonging",
+      "lens_question": "What happened between you and others, and how did the connection change?",
+      "definition": "Experiences in which connections with family, friends, mentors, teammates or communities form, deepen, break or are repaired.",
+      "boundary": "This lens is about what happens between people, including conflict, distance, grief and reconciliation. The other person is part of the story.",
+      "subcategories": [
+        {
+          "name": "Friendship and Peer Support",
+          "intent": "a time you began or deepened a friendship, or a friend helped you through something",
+          "starter_prompts": [
+            "How did one of your friendships begin?",
+            "When did a friend help you through something hard, or you helped them?",
+            "What did you and your friends build, plan or figure out together?"
+          ]
+        },
+        {
+          "name": "Family and Generations",
+          "intent": "a time you connected with family or across generations, including caring for a family member",
+          "starter_prompts": [
+            "What did an older family member teach you? How did they teach it?",
+            "What family tradition do you help keep going? What is your part?",
+            "When did you care for someone in your family, or they cared for you, in a way you still remember?"
+          ]
+        },
+        {
+          "name": "Mentorship and Guidance",
+          "intent": "a time you were guided by someone older or more experienced, and what you did with it",
+          "starter_prompts": [
+            "Which teacher, coach or mentor changed how you saw something? What did they do?",
+            "What advice did you get, what did you do with it, and what happened?",
+            "When did an older student or sibling help you get through something challenging?"
+          ]
+        },
+        {
+          "name": "Community and Teamwork",
+          "intent": "a time you were part of a group that worked toward something together",
+          "starter_prompts": [
+            "When did a group you were part of do something none of you could have done alone?",
+            "What was your role in a group project, and how did the group work together?",
+            "Where do you feel you truly belong? Tell about one day there."
+          ]
+        },
+        {
+          "name": "Conflict and Repair",
+          "intent": "a time you worked through a disagreement, made peace, forgave or were forgiven",
+          "starter_prompts": [
+            "Think of a disagreement with a friend or family member that you worked through. How did you do it?",
+            "When did you help two people make peace?",
+            "When did you apologize to someone, or forgive someone? What changed afterward?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Adventure",
+      "focus": "Exploration and discovery",
+      "lens_question": "What was new to you, and what did it open up?",
+      "definition": "Experiences of curiosity and first encounters: a new subject, place, culture, skill or way of seeing.",
+      "boundary": "Adventure does not require travel, money or danger. A library book, a new neighborhood or a new school can open the world.",
+      "subcategories": [
+        {
+          "name": "Intellectual Curiosity",
+          "intent": "a time you followed a question into learning something new",
+          "starter_prompts": [
+            "What question couldn't you stop asking, and where did it lead you?",
+            "What book, video or conversation made you want to learn more? What did you do next?",
+            "What puzzle or problem did you figure out on your own?"
+          ]
+        },
+        {
+          "name": "New Places and New Beginnings",
+          "intent": "a time you went somewhere new or started over: a trip, a neighborhood, a new school, a move",
+          "starter_prompts": [
+            "What place near where you live did you explore for the first time?",
+            "Tell about starting somewhere new: a new school, a new group or a new home.",
+            "Where did you go, near or far, that showed you something you had never seen?"
+          ]
+        },
+        {
+          "name": "Creative Exploration",
+          "intent": "a time you tried a way of creating that was new to you",
+          "starter_prompts": [
+            "When did you try a kind of creating you had never done before?",
+            "What did you experiment with, just to see what would happen?",
+            "What game, story or world did you invent?"
+          ]
+        },
+        {
+          "name": "Cultural Encounter and Exchange",
+          "intent": "a time you met a culture, language or tradition new to you, or shared your own",
+          "starter_prompts": [
+            "When did you learn a tradition, food, language or celebration that was new to you?",
+            "When did you share something from your own culture with other people?",
+            "When did you try to speak or understand a language you were still learning?"
+          ]
+        },
+        {
+          "name": "Skills and Hobbies",
+          "intent": "a time you took up a skill or hobby and stayed with it long enough to learn",
+          "starter_prompts": [
+            "What hobby did you start, and what kept you going?",
+            "What skill did you practice until you got noticeably better?",
+            "What club or group did you join because of something you love doing?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Making",
+      "focus": "Creation and craft",
+      "lens_question": "What did you bring into being, how did you make it, and why did it matter?",
+      "definition": "Experiences of designing, building, writing, composing, performing, coding, repairing or crafting something, alone or with others.",
+      "boundary": "Making is broader than art and does not require an original invention. Repairs, remixes, performances and group projects all count.",
+      "subcategories": [
+        {
+          "name": "Visual Art and Craft",
+          "intent": "a time you made something visual or by hand: a drawing, painting, sculpture, garment or craft",
+          "starter_prompts": [
+            "What did you draw, paint, sculpt, sew or build by hand that matters to you?",
+            "What piece was hard to make, and how did you finish it?",
+            "Where did the idea for one of your pieces come from?"
+          ]
+        },
+        {
+          "name": "Music and Performance",
+          "intent": "a time you composed, rehearsed or performed music, dance, theater or spoken word",
+          "starter_prompts": [
+            "What song, dance, scene or poem did you write, learn or rehearse?",
+            "Tell about performing for other people. How did you get ready?",
+            "When did you make music or a performance with others?"
+          ]
+        },
+        {
+          "name": "Writing and Storytelling",
+          "intent": "a time you wrote or told something that mattered to you",
+          "starter_prompts": [
+            "What did you write that you are proud of, and what inspired it?",
+            "What letter, speech or message did you write that really mattered?",
+            "When did a story you told change how someone saw something?"
+          ]
+        },
+        {
+          "name": "Invention, Design and Repair",
+          "intent": "a time you designed, built or fixed something to solve a problem",
+          "starter_prompts": [
+            "What did you design or build to solve a problem?",
+            "What broken thing did you figure out how to fix?",
+            "What first try failed, and what did you change?"
+          ]
+        },
+        {
+          "name": "Digital Creation",
+          "intent": "a time you made something with digital tools: a video, game, app, website, track or online community",
+          "starter_prompts": [
+            "What video, game, app, website or track did you make with digital tools?",
+            "What did you build inside a game or an online world?",
+            "What online group or channel did you start or help run? What did running it teach you?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wellbeing",
+      "focus": "Health and balance",
+      "lens_question": "What affected your health or balance, and what did you learn about living well?",
+      "definition": "Experiences of caring for body, mind and spirit: movement, food, rest, emotional balance, purpose and connection to nature.",
+      "boundary": "Wellbeing does not judge bodies, food, feelings or rest. Dotes about health and emotions are private by default.",
+      "subcategories": [
+        {
+          "name": "Movement and Physical Activity",
+          "intent": "a time you took up or stayed with a way of moving your body, or came back after an injury or a break",
+          "starter_prompts": [
+            "What way of moving your body did you start or stick with: a sport, dance, walking or play?",
+            "What physical challenge did you work up to? How did you prepare?",
+            "Tell about getting back to something you love after an injury or a long break."
+          ]
+        },
+        {
+          "name": "Food and Nourishment",
+          "intent": "a time you cooked, shared or learned about food: a family recipe, a meal for others, a tradition",
+          "starter_prompts": [
+            "What did you cook or prepare for yourself or for others?",
+            "What family recipe or food tradition do you know? Who taught it to you?",
+            "Tell about a meal you shared that brought people together."
+          ]
+        },
+        {
+          "name": "Emotional Balance",
+          "intent": "a time you found your way through a hard feeling, or helped yourself steady",
+          "starter_prompts": [
+            "What have you found that helps you through a hard day? How did you find it?",
+            "When did you talk something through with someone you trust?",
+            "How did you get through a stressful moment, and what would you do again?"
+          ]
+        },
+        {
+          "name": "Rest and Renewal",
+          "intent": "a time you made room for rest or recovery and noticed what it gave you",
+          "starter_prompts": [
+            "When did you choose to rest, and what did it give you?",
+            "What routine helps you recharge? How did you build it?",
+            "Where do you feel calm, and what do you do there?"
+          ]
+        },
+        {
+          "name": "Personal and Spiritual Development",
+          "intent": "a time you connected with something larger than yourself: faith, nature, purpose or a big question",
+          "starter_prompts": [
+            "When did you feel connected to something larger than yourself?",
+            "What big question about life have you wondered about, and where did it lead you?",
+            "What tradition, practice or place in nature helps you feel grounded?"
+          ]
+        }
+      ]
+    }
+  ]
+}

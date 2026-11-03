@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Dotes is free to use under CC BY 4.0, and the name \"Dotes\" is free for anyone to use. If you use it, please credit it as below."
+title: "Dotes: Canonical Framework"
+abstract: "An AI-ready narrative ontology for the first-person recordation of lived learning experiences, with sample personas, starter prompts, a JSON schema and an explorer kit."
+type: dataset
+authors:
+  - family-names: Robbins
+    given-names: Michael
+    email: michael@intospatia.xyz
+license: CC-BY-4.0
+url: "https://dotes.xyz"
+date-released: 2026-11-07
+keywords:
+  - narrative identity
+  - learning records
+  - experiential learning
+  - AI representatives
+  - ontology
