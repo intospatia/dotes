@@ -31,7 +31,6 @@ Dotes won't be argued into existence. It will be practiced into existence, by pe
 | [`data/`](data/) | The same 63 dotes as JSON and CSV, plus every category and subcategory as JSON |
 | [`schema/`](schema/) | A JSON Schema for a single dote |
 | [`explorer/`](explorer/) | Instructions, upload files, and a setup and testing guide for a Dotes Explorer, plus links to working examples on Playlab and ChatGPT |
-| [`session/`](session/) | The first public session, at MeasureCamp DC in November 2026: slides, speaker notes, handout and session card |
 | [`tools/`](tools/) | A validator that checks dotes against the schema and the canon |
 
 ## Start in five minutes
