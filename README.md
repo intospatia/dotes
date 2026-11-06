@@ -26,7 +26,7 @@ Dotes won't be argued into existence. It will be practiced into existence, by pe
 
 | Folder | What's inside |
 | --- | --- |
-| [`canon/`](canon/) | The canonical framework in Markdown and Word: the definition, the five elements, seven categories, 35 subcategories, stewardship rules, glossary and starter prompts |
+| [`canon/`](canon/) | The canonical framework in Markdown and Word: the definition, the five elements, seven categories, 35 subcategories, stewardship rules, glossary and starter prompts; plus description of dotes framework provenance. |
 | [`personas/`](personas/) | Three fictional people, Melu (13), Jessi (20) and Cyrus (69), and their 63 dotes, as Markdown and a spreadsheet |
 | [`data/`](data/) | The same 63 dotes as JSON and CSV, plus every category and subcategory as JSON |
 | [`schema/`](schema/) | A JSON Schema for a single dote |
