@@ -16,7 +16,7 @@ This repository holds everything you need to read it, try it and build with it: 
 
 ## Why this is open
 
-We count clicks, hours and badges with great precision. We almost never ask people what their experiences meant. As AI systems build profiles of us from whatever they can infer, the people being described need a way to author their own record.
+We count clicks, hours, and badges with great precision. We almost never ask people what their experiences meant. As AI systems build profiles of us from whatever they can infer, the people being described need a way to author their own record.
 
 Dotes is a gift: a base layer for digital civilization, open to everyone, name included. Nothing here is proprietary.
 
